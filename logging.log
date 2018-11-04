@@ -1017,3 +1017,267 @@
 2018-11-03 21:28:21 INFO  Brand:41 - making toString method
 2018-11-03 21:28:21 INFO  Brand:41 - making toString method
 2018-11-03 21:28:21 INFO  Brand:41 - making toString method
+2018-11-04 14:27:08 DEBUG getAllBrandList:159 - ==>  Preparing: Select * from Brand 
+2018-11-04 14:27:08 DEBUG getAllBrandList:159 - ==> Parameters: 
+2018-11-04 14:27:08 TRACE getAllBrandList:165 - <==    Columns: id, name
+2018-11-04 14:27:08 TRACE getAllBrandList:165 - <==        Row: 1, AUDI
+2018-11-04 14:27:08 INFO  Brand:43 - Set brand id
+2018-11-04 14:27:08 INFO  Brand:49 - Set brand name
+2018-11-04 14:27:08 TRACE getAllBrandList:165 - <==        Row: 2, VW
+2018-11-04 14:27:08 INFO  Brand:43 - Set brand id
+2018-11-04 14:27:08 INFO  Brand:49 - Set brand name
+2018-11-04 14:27:08 TRACE getAllBrandList:165 - <==        Row: 3, FORD
+2018-11-04 14:27:08 INFO  Brand:43 - Set brand id
+2018-11-04 14:27:08 INFO  Brand:49 - Set brand name
+2018-11-04 14:27:08 DEBUG getAllBrandList:159 - <==      Total: 3
+2018-11-04 14:27:09 INFO  BrandServiceImpl:32 - create List of Brands from DataBase
+2018-11-04 14:27:09 INFO  Brand:43 - Set brand id
+2018-11-04 14:27:09 INFO  Brand:49 - Set brand name
+2018-11-04 14:27:09 INFO  Brand:43 - Set brand id
+2018-11-04 14:27:09 INFO  Brand:49 - Set brand name
+2018-11-04 14:27:09 INFO  Brand:43 - Set brand id
+2018-11-04 14:27:09 INFO  Brand:49 - Set brand name
+2018-11-04 14:36:05 INFO  Brand:43 - Set brand id
+2018-11-04 14:36:05 INFO  Brand:49 - Set brand name
+2018-11-04 14:36:05 INFO  Brand:43 - Set brand id
+2018-11-04 14:36:05 INFO  Brand:49 - Set brand name
+2018-11-04 14:36:05 INFO  Brand:43 - Set brand id
+2018-11-04 14:36:05 INFO  Brand:49 - Set brand name
+2018-11-04 14:36:05 DEBUG getAllBrandList:159 - ==>  Preparing: Select * from Brand 
+2018-11-04 14:36:05 DEBUG getAllBrandList:159 - ==> Parameters: 
+2018-11-04 14:36:05 TRACE getAllBrandList:165 - <==    Columns: id, name
+2018-11-04 14:36:05 TRACE getAllBrandList:165 - <==        Row: 1, AUDI
+2018-11-04 14:36:05 INFO  Brand:43 - Set brand id
+2018-11-04 14:36:05 INFO  Brand:49 - Set brand name
+2018-11-04 14:36:05 TRACE getAllBrandList:165 - <==        Row: 2, VW
+2018-11-04 14:36:05 INFO  Brand:43 - Set brand id
+2018-11-04 14:36:05 INFO  Brand:49 - Set brand name
+2018-11-04 14:36:05 TRACE getAllBrandList:165 - <==        Row: 3, FORD
+2018-11-04 14:36:05 INFO  Brand:43 - Set brand id
+2018-11-04 14:36:05 INFO  Brand:49 - Set brand name
+2018-11-04 14:36:05 DEBUG getAllBrandList:159 - <==      Total: 3
+2018-11-04 14:36:05 INFO  BrandServiceImpl:32 - create List of Brands from DataBase
+2018-11-04 14:37:37 INFO  Brand:43 - Set brand id
+2018-11-04 14:37:37 INFO  Brand:49 - Set brand name
+2018-11-04 14:37:37 INFO  Brand:43 - Set brand id
+2018-11-04 14:37:37 INFO  Brand:49 - Set brand name
+2018-11-04 14:37:37 INFO  Brand:43 - Set brand id
+2018-11-04 14:37:37 INFO  Brand:49 - Set brand name
+2018-11-04 14:37:37 DEBUG getAllBrandList:159 - ==>  Preparing: Select * from Brand 
+2018-11-04 14:37:37 DEBUG getAllBrandList:159 - ==> Parameters: 
+2018-11-04 14:37:37 TRACE getAllBrandList:165 - <==    Columns: id, name
+2018-11-04 14:37:37 TRACE getAllBrandList:165 - <==        Row: 1, AUDI
+2018-11-04 14:37:37 INFO  Brand:43 - Set brand id
+2018-11-04 14:37:37 INFO  Brand:49 - Set brand name
+2018-11-04 14:37:37 TRACE getAllBrandList:165 - <==        Row: 2, VW
+2018-11-04 14:37:37 INFO  Brand:43 - Set brand id
+2018-11-04 14:37:37 INFO  Brand:49 - Set brand name
+2018-11-04 14:37:37 TRACE getAllBrandList:165 - <==        Row: 3, FORD
+2018-11-04 14:37:37 INFO  Brand:43 - Set brand id
+2018-11-04 14:37:37 INFO  Brand:49 - Set brand name
+2018-11-04 14:37:37 DEBUG getAllBrandList:159 - <==      Total: 3
+2018-11-04 14:37:37 INFO  BrandServiceImpl:32 - create List of Brands from DataBase
+2018-11-04 14:37:37 INFO  DbApiBrandServiceTest:60 - selectAllBrandTest complete
+2018-11-04 14:42:08 INFO  Brand:43 - Set brand id
+2018-11-04 14:42:08 INFO  Brand:49 - Set brand name
+2018-11-04 14:42:08 INFO  Brand:43 - Set brand id
+2018-11-04 14:42:08 INFO  Brand:49 - Set brand name
+2018-11-04 14:42:08 INFO  Brand:43 - Set brand id
+2018-11-04 14:42:08 INFO  Brand:49 - Set brand name
+2018-11-04 14:42:08 DEBUG getAllBrandList:159 - ==>  Preparing: Select * from Brand 
+2018-11-04 14:42:08 DEBUG getAllBrandList:159 - ==> Parameters: 
+2018-11-04 14:42:08 TRACE getAllBrandList:165 - <==    Columns: id, name
+2018-11-04 14:42:08 TRACE getAllBrandList:165 - <==        Row: 1, AUDI
+2018-11-04 14:42:08 INFO  Brand:43 - Set brand id
+2018-11-04 14:42:08 INFO  Brand:49 - Set brand name
+2018-11-04 14:42:08 TRACE getAllBrandList:165 - <==        Row: 2, VW
+2018-11-04 14:42:08 INFO  Brand:43 - Set brand id
+2018-11-04 14:42:08 INFO  Brand:49 - Set brand name
+2018-11-04 14:42:08 TRACE getAllBrandList:165 - <==        Row: 3, FORD
+2018-11-04 14:42:08 INFO  Brand:43 - Set brand id
+2018-11-04 14:42:08 INFO  Brand:49 - Set brand name
+2018-11-04 14:42:08 DEBUG getAllBrandList:159 - <==      Total: 3
+2018-11-04 14:42:08 INFO  BrandServiceImpl:32 - create List of Brands from DataBase
+2018-11-04 14:42:08 INFO  DbApiBrandServiceTest:61 - selectAllBrandTest complete
+2018-11-04 14:42:08 ERROR DbApiBrandServiceTest:62 - errror
+2018-11-04 15:05:37 INFO  Log:11 - Test is Starting...
+2018-11-04 15:05:38 INFO  Brand:43 - Set brand id
+2018-11-04 15:05:38 INFO  Brand:49 - Set brand name
+2018-11-04 15:05:38 INFO  Brand:43 - Set brand id
+2018-11-04 15:05:38 INFO  Brand:49 - Set brand name
+2018-11-04 15:05:38 INFO  Brand:43 - Set brand id
+2018-11-04 15:05:38 INFO  Brand:49 - Set brand name
+2018-11-04 15:05:38 DEBUG getAllBrandList:159 - ==>  Preparing: Select * from Brand 
+2018-11-04 15:05:38 DEBUG getAllBrandList:159 - ==> Parameters: 
+2018-11-04 15:05:39 TRACE getAllBrandList:165 - <==    Columns: id, name
+2018-11-04 15:05:39 TRACE getAllBrandList:165 - <==        Row: 1, AUDI
+2018-11-04 15:05:39 INFO  Brand:43 - Set brand id
+2018-11-04 15:05:39 INFO  Brand:49 - Set brand name
+2018-11-04 15:05:39 TRACE getAllBrandList:165 - <==        Row: 2, VW
+2018-11-04 15:05:39 INFO  Brand:43 - Set brand id
+2018-11-04 15:05:39 INFO  Brand:49 - Set brand name
+2018-11-04 15:05:39 TRACE getAllBrandList:165 - <==        Row: 3, FORD
+2018-11-04 15:05:39 INFO  Brand:43 - Set brand id
+2018-11-04 15:05:39 INFO  Brand:49 - Set brand name
+2018-11-04 15:05:39 DEBUG getAllBrandList:159 - <==      Total: 3
+2018-11-04 15:05:39 INFO  BrandServiceImpl:32 - create List of Brands from DataBase
+2018-11-04 15:05:39 INFO  Log:16 - Test is Ending...
+2018-11-04 15:19:29 INFO  Brand:43 - Set brand id
+2018-11-04 15:19:29 INFO  Brand:49 - Set brand name
+2018-11-04 15:19:29 INFO  Brand:43 - Set brand id
+2018-11-04 15:19:29 INFO  Brand:49 - Set brand name
+2018-11-04 15:19:29 INFO  Brand:43 - Set brand id
+2018-11-04 15:19:29 INFO  Brand:49 - Set brand name
+2018-11-04 15:19:29 DEBUG getAllBrandList:159 - ==>  Preparing: Select * from Brand 
+2018-11-04 15:19:29 DEBUG getAllBrandList:159 - ==> Parameters: 
+2018-11-04 15:19:30 TRACE getAllBrandList:165 - <==    Columns: id, name
+2018-11-04 15:19:30 TRACE getAllBrandList:165 - <==        Row: 1, AUDI
+2018-11-04 15:19:30 INFO  Brand:43 - Set brand id
+2018-11-04 15:19:30 INFO  Brand:49 - Set brand name
+2018-11-04 15:19:30 TRACE getAllBrandList:165 - <==        Row: 2, VW
+2018-11-04 15:19:30 INFO  Brand:43 - Set brand id
+2018-11-04 15:19:30 INFO  Brand:49 - Set brand name
+2018-11-04 15:19:30 TRACE getAllBrandList:165 - <==        Row: 3, FORD
+2018-11-04 15:19:30 INFO  Brand:43 - Set brand id
+2018-11-04 15:19:30 INFO  Brand:49 - Set brand name
+2018-11-04 15:19:30 DEBUG getAllBrandList:159 - <==      Total: 3
+2018-11-04 15:19:30 INFO  BrandServiceImpl:32 - create List of Brands from DataBase
+2018-11-04 15:34:03 INFO  Brand:43 - Set brand id
+2018-11-04 15:34:03 INFO  Brand:49 - Set brand name
+2018-11-04 15:34:03 INFO  Brand:43 - Set brand id
+2018-11-04 15:34:03 INFO  Brand:49 - Set brand name
+2018-11-04 15:34:03 INFO  Brand:43 - Set brand id
+2018-11-04 15:34:03 INFO  Brand:49 - Set brand name
+2018-11-04 15:34:03 DEBUG getAllBrandList:159 - ==>  Preparing: Select * from Brand 
+2018-11-04 15:34:03 DEBUG getAllBrandList:159 - ==> Parameters: 
+2018-11-04 15:34:04 TRACE getAllBrandList:165 - <==    Columns: id, name
+2018-11-04 15:34:04 TRACE getAllBrandList:165 - <==        Row: 1, AUDI
+2018-11-04 15:34:04 INFO  Brand:43 - Set brand id
+2018-11-04 15:34:04 INFO  Brand:49 - Set brand name
+2018-11-04 15:34:04 TRACE getAllBrandList:165 - <==        Row: 2, VW
+2018-11-04 15:34:04 INFO  Brand:43 - Set brand id
+2018-11-04 15:34:04 INFO  Brand:49 - Set brand name
+2018-11-04 15:34:04 TRACE getAllBrandList:165 - <==        Row: 3, FORD
+2018-11-04 15:34:04 INFO  Brand:43 - Set brand id
+2018-11-04 15:34:04 INFO  Brand:49 - Set brand name
+2018-11-04 15:34:04 DEBUG getAllBrandList:159 - <==      Total: 3
+2018-11-04 15:34:04 INFO  BrandServiceImpl:32 - create List of Brands from DataBase
+2018-11-04 15:36:30 INFO  Brand:43 - Set brand id
+2018-11-04 15:36:30 INFO  Brand:49 - Set brand name
+2018-11-04 15:36:30 INFO  Brand:43 - Set brand id
+2018-11-04 15:36:30 INFO  Brand:49 - Set brand name
+2018-11-04 15:36:30 INFO  Brand:43 - Set brand id
+2018-11-04 15:36:30 INFO  Brand:49 - Set brand name
+2018-11-04 15:36:30 DEBUG getAllBrandList:159 - ==>  Preparing: Select * from Brand 
+2018-11-04 15:36:30 DEBUG getAllBrandList:159 - ==> Parameters: 
+2018-11-04 15:36:30 TRACE getAllBrandList:165 - <==    Columns: id, name
+2018-11-04 15:36:30 TRACE getAllBrandList:165 - <==        Row: 1, AUDI
+2018-11-04 15:36:30 INFO  Brand:43 - Set brand id
+2018-11-04 15:36:30 INFO  Brand:49 - Set brand name
+2018-11-04 15:36:30 TRACE getAllBrandList:165 - <==        Row: 2, VW
+2018-11-04 15:36:30 INFO  Brand:43 - Set brand id
+2018-11-04 15:36:30 INFO  Brand:49 - Set brand name
+2018-11-04 15:36:30 TRACE getAllBrandList:165 - <==        Row: 3, FORD
+2018-11-04 15:36:30 INFO  Brand:43 - Set brand id
+2018-11-04 15:36:30 INFO  Brand:49 - Set brand name
+2018-11-04 15:36:30 DEBUG getAllBrandList:159 - <==      Total: 3
+2018-11-04 15:36:30 INFO  BrandServiceImpl:32 - create List of Brands from DataBase
+2018-11-04 15:37:17 INFO  Brand:43 - Set brand id
+2018-11-04 15:37:17 INFO  Brand:49 - Set brand name
+2018-11-04 15:37:17 INFO  Brand:43 - Set brand id
+2018-11-04 15:37:17 INFO  Brand:49 - Set brand name
+2018-11-04 15:37:17 INFO  Brand:43 - Set brand id
+2018-11-04 15:37:17 INFO  Brand:49 - Set brand name
+2018-11-04 15:37:17 DEBUG getAllBrandList:159 - ==>  Preparing: Select * from Brand 
+2018-11-04 15:37:17 DEBUG getAllBrandList:159 - ==> Parameters: 
+2018-11-04 15:37:17 TRACE getAllBrandList:165 - <==    Columns: id, name
+2018-11-04 15:37:17 TRACE getAllBrandList:165 - <==        Row: 1, AUDI
+2018-11-04 15:37:17 INFO  Brand:43 - Set brand id
+2018-11-04 15:37:17 INFO  Brand:49 - Set brand name
+2018-11-04 15:37:17 TRACE getAllBrandList:165 - <==        Row: 2, VW
+2018-11-04 15:37:17 INFO  Brand:43 - Set brand id
+2018-11-04 15:37:17 INFO  Brand:49 - Set brand name
+2018-11-04 15:37:17 TRACE getAllBrandList:165 - <==        Row: 3, FORD
+2018-11-04 15:37:18 INFO  Brand:43 - Set brand id
+2018-11-04 15:37:18 INFO  Brand:49 - Set brand name
+2018-11-04 15:37:18 DEBUG getAllBrandList:159 - <==      Total: 3
+2018-11-04 15:37:18 INFO  BrandServiceImpl:32 - create List of Brands from DataBase
+2018-11-04 15:37:52 INFO  Brand:43 - Set brand id
+2018-11-04 15:37:52 INFO  Brand:49 - Set brand name
+2018-11-04 15:37:52 INFO  Brand:43 - Set brand id
+2018-11-04 15:37:52 INFO  Brand:49 - Set brand name
+2018-11-04 15:37:52 INFO  Brand:43 - Set brand id
+2018-11-04 15:37:52 INFO  Brand:49 - Set brand name
+2018-11-04 15:37:52 DEBUG getAllBrandList:159 - ==>  Preparing: Select * from Brand 
+2018-11-04 15:37:52 DEBUG getAllBrandList:159 - ==> Parameters: 
+2018-11-04 15:37:52 TRACE getAllBrandList:165 - <==    Columns: id, name
+2018-11-04 15:37:52 TRACE getAllBrandList:165 - <==        Row: 1, AUDI
+2018-11-04 15:37:52 INFO  Brand:43 - Set brand id
+2018-11-04 15:37:52 INFO  Brand:49 - Set brand name
+2018-11-04 15:37:52 TRACE getAllBrandList:165 - <==        Row: 2, VW
+2018-11-04 15:37:52 INFO  Brand:43 - Set brand id
+2018-11-04 15:37:52 INFO  Brand:49 - Set brand name
+2018-11-04 15:37:52 TRACE getAllBrandList:165 - <==        Row: 3, FORD
+2018-11-04 15:37:53 INFO  Brand:43 - Set brand id
+2018-11-04 15:37:53 INFO  Brand:49 - Set brand name
+2018-11-04 15:37:53 DEBUG getAllBrandList:159 - <==      Total: 3
+2018-11-04 15:37:53 INFO  BrandServiceImpl:32 - create List of Brands from DataBase
+2018-11-04 15:56:53 INFO  Brand:43 - Set brand id
+2018-11-04 15:56:53 INFO  Brand:49 - Set brand name
+2018-11-04 15:56:53 INFO  Brand:43 - Set brand id
+2018-11-04 15:56:53 INFO  Brand:49 - Set brand name
+2018-11-04 15:56:53 INFO  Brand:43 - Set brand id
+2018-11-04 15:56:53 INFO  Brand:49 - Set brand name
+2018-11-04 15:56:54 DEBUG getAllBrandList:159 - ==>  Preparing: Select * from Brand 
+2018-11-04 15:56:54 DEBUG getAllBrandList:159 - ==> Parameters: 
+2018-11-04 15:56:54 TRACE getAllBrandList:165 - <==    Columns: id, name
+2018-11-04 15:56:54 TRACE getAllBrandList:165 - <==        Row: 1, AUDI
+2018-11-04 15:56:54 TRACE getAllBrandList:165 - <==        Row: 2, VW
+2018-11-04 15:56:54 TRACE getAllBrandList:165 - <==        Row: 3, FORD
+2018-11-04 15:56:54 DEBUG getAllBrandList:159 - <==      Total: 3
+2018-11-04 16:03:15 INFO  Brand:43 - Set brand id
+2018-11-04 16:03:15 INFO  Brand:49 - Set brand name
+2018-11-04 16:03:15 INFO  Brand:43 - Set brand id
+2018-11-04 16:03:15 INFO  Brand:49 - Set brand name
+2018-11-04 16:03:15 INFO  Brand:43 - Set brand id
+2018-11-04 16:03:15 INFO  Brand:49 - Set brand name
+2018-11-04 16:03:15 DEBUG getAllBrandList:159 - ==>  Preparing: Select * from Brand 
+2018-11-04 16:03:15 DEBUG getAllBrandList:159 - ==> Parameters: 
+2018-11-04 16:03:15 TRACE getAllBrandList:165 - <==    Columns: id, name
+2018-11-04 16:03:15 TRACE getAllBrandList:165 - <==        Row: 1, AUDI
+2018-11-04 16:03:15 INFO  Brand:43 - Set brand id
+2018-11-04 16:03:15 INFO  Brand:49 - Set brand name
+2018-11-04 16:03:15 TRACE getAllBrandList:165 - <==        Row: 2, VW
+2018-11-04 16:03:15 INFO  Brand:43 - Set brand id
+2018-11-04 16:03:15 INFO  Brand:49 - Set brand name
+2018-11-04 16:03:15 TRACE getAllBrandList:165 - <==        Row: 3, FORD
+2018-11-04 16:03:15 INFO  Brand:43 - Set brand id
+2018-11-04 16:03:15 INFO  Brand:49 - Set brand name
+2018-11-04 16:03:15 DEBUG getAllBrandList:159 - <==      Total: 3
+2018-11-04 16:03:16 INFO  BrandServiceImpl:32 - create List of Brands from DataBase
+2018-11-04 16:03:16 INFO  Log:21 - [Brand{id=1, name='AUDI'}, Brand{id=2, name='VW'}, Brand{id=3, name='FORD'}]
+2018-11-04 16:03:16 INFO  BrandServiceImpl:32 - create List of Brands from DataBase
+2018-11-04 16:03:16 INFO  DbApiBrandServiceTest:70 - selectAllBrandTest complete
+2018-11-04 16:05:34 INFO  Brand:43 - Set brand id
+2018-11-04 16:05:34 INFO  Brand:49 - Set brand name
+2018-11-04 16:05:34 INFO  Brand:43 - Set brand id
+2018-11-04 16:05:34 INFO  Brand:49 - Set brand name
+2018-11-04 16:05:34 INFO  Brand:43 - Set brand id
+2018-11-04 16:05:34 INFO  Brand:49 - Set brand name
+2018-11-04 16:05:34 DEBUG getAllBrandList:159 - ==>  Preparing: Select * from Brand 
+2018-11-04 16:05:34 DEBUG getAllBrandList:159 - ==> Parameters: 
+2018-11-04 16:05:34 TRACE getAllBrandList:165 - <==    Columns: id, name
+2018-11-04 16:05:34 TRACE getAllBrandList:165 - <==        Row: 1, AUDI
+2018-11-04 16:05:34 INFO  Brand:43 - Set brand id
+2018-11-04 16:05:34 INFO  Brand:49 - Set brand name
+2018-11-04 16:05:34 TRACE getAllBrandList:165 - <==        Row: 2, VW
+2018-11-04 16:05:34 INFO  Brand:43 - Set brand id
+2018-11-04 16:05:34 INFO  Brand:49 - Set brand name
+2018-11-04 16:05:34 TRACE getAllBrandList:165 - <==        Row: 3, FORD
+2018-11-04 16:05:34 INFO  Brand:43 - Set brand id
+2018-11-04 16:05:34 INFO  Brand:49 - Set brand name
+2018-11-04 16:05:34 DEBUG getAllBrandList:159 - <==      Total: 3
+2018-11-04 16:05:34 INFO  BrandServiceImpl:32 - create List of Brands from DataBase
+2018-11-04 16:05:34 INFO  Log:21 - Method sfsfsdfsfd[Brand{id=1, name='AUDI'}, Brand{id=2, name='VW'}, Brand{id=3, name='FORD'}]
+2018-11-04 16:05:34 INFO  BrandServiceImpl:32 - create List of Brands from DataBase
+2018-11-04 16:05:34 INFO  DbApiBrandServiceTest:70 - selectAllBrandTest complete
