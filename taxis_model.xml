@@ -1,0 +1,30 @@
+<list>
+  <model>
+    <id>1</id>
+    <name>A3</name>
+  </model>
+  <model>
+    <id>2</id>
+    <name>A4</name>
+  </model>
+  <model>
+    <id>3</id>
+    <name>A6</name>
+  </model>
+  <model>
+    <id>4</id>
+    <name>GALAXY</name>
+  </model>
+  <model>
+    <id>5</id>
+    <name>TRANSIT</name>
+  </model>
+  <model>
+    <id>6</id>
+    <name>SHARAN</name>
+  </model>
+  <model>
+    <id>7</id>
+    <name>PASSAT</name>
+  </model>
+</list>

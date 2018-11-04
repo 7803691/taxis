@@ -1,0 +1,14 @@
+<list>
+  <level>
+    <id>1</id>
+    <name>PASSENGER</name>
+  </level>
+  <level>
+    <id>2</id>
+    <name>MINIVAN</name>
+  </level>
+  <level>
+    <id>3</id>
+    <name>CARGO</name>
+  </level>
+</list>

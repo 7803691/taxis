@@ -1,0 +1,1019 @@
+2018-10-29 16:08:46 ERROR Main:29 - error
+2018-10-29 16:08:46 WARN  Main:30 - warning
+2018-10-29 16:08:46 INFO  Main:31 - info
+2018-10-29 16:08:47 DEBUG getAllLevelCar:159 - ==>  Preparing: Select * from Level 
+2018-10-29 16:08:47 DEBUG getAllLevelCar:159 - ==> Parameters: 
+2018-10-29 16:08:48 TRACE getAllLevelCar:165 - <==    Columns: Id, Name
+2018-10-29 16:08:48 TRACE getAllLevelCar:165 - <==        Row: 1, Passenger
+2018-10-29 16:08:48 TRACE getAllLevelCar:165 - <==        Row: 2, Minivan
+2018-10-29 16:08:48 TRACE getAllLevelCar:165 - <==        Row: 3, Cargo
+2018-10-29 16:08:48 DEBUG getAllLevelCar:159 - <==      Total: 3
+2018-10-29 16:09:54 ERROR Main:29 - error
+2018-10-29 16:09:54 WARN  Main:30 - warning
+2018-10-29 16:09:54 INFO  Main:31 - info
+2018-10-29 16:09:55 DEBUG getAllLevelCar:159 - ==>  Preparing: Select * from Level 
+2018-10-29 16:09:55 DEBUG getAllLevelCar:159 - ==> Parameters: 
+2018-10-29 16:09:55 TRACE getAllLevelCar:165 - <==    Columns: Id, Name
+2018-10-29 16:09:55 TRACE getAllLevelCar:165 - <==        Row: 1, Passenger
+2018-10-29 16:09:55 TRACE getAllLevelCar:165 - <==        Row: 2, Minivan
+2018-10-29 16:09:55 TRACE getAllLevelCar:165 - <==        Row: 3, Cargo
+2018-10-29 16:09:55 DEBUG getAllLevelCar:159 - <==      Total: 3
+2018-10-29 16:14:16 ERROR Main:29 - error
+2018-10-29 16:14:16 WARN  Main:30 - warning
+2018-10-29 16:14:16 INFO  Main:31 - info
+2018-10-29 16:14:17 INFO  Brand:33 - Set brand name
+2018-10-29 16:14:17 INFO  Brand:33 - Set brand name
+2018-10-29 16:14:17 INFO  Brand:33 - Set brand name
+2018-10-29 16:14:17 INFO  Brand:33 - Set brand name
+2018-10-29 16:14:17 INFO  Brand:33 - Set brand name
+2018-10-29 16:14:17 INFO  Brand:33 - Set brand name
+2018-10-29 16:14:17 DEBUG getAllLevelCar:159 - ==>  Preparing: Select * from Level 
+2018-10-29 16:14:17 DEBUG getAllLevelCar:159 - ==> Parameters: 
+2018-10-29 16:14:17 TRACE getAllLevelCar:165 - <==    Columns: Id, Name
+2018-10-29 16:14:17 TRACE getAllLevelCar:165 - <==        Row: 1, Passenger
+2018-10-29 16:14:17 TRACE getAllLevelCar:165 - <==        Row: 2, Minivan
+2018-10-29 16:14:17 TRACE getAllLevelCar:165 - <==        Row: 3, Cargo
+2018-10-29 16:14:17 DEBUG getAllLevelCar:159 - <==      Total: 3
+2018-10-29 16:15:18 ERROR Main:29 - error
+2018-10-29 16:15:18 WARN  Main:30 - warning
+2018-10-29 16:15:18 INFO  Main:31 - info
+2018-10-29 16:15:19 INFO  Brand:28 - Set brand id
+2018-10-29 16:15:19 INFO  Brand:34 - Set brand name
+2018-10-29 16:15:19 INFO  Brand:28 - Set brand id
+2018-10-29 16:15:19 INFO  Brand:34 - Set brand name
+2018-10-29 16:15:19 INFO  Brand:28 - Set brand id
+2018-10-29 16:15:19 INFO  Brand:34 - Set brand name
+2018-10-29 16:15:19 INFO  Brand:28 - Set brand id
+2018-10-29 16:15:19 INFO  Brand:34 - Set brand name
+2018-10-29 16:15:19 INFO  Brand:28 - Set brand id
+2018-10-29 16:15:19 INFO  Brand:34 - Set brand name
+2018-10-29 16:15:19 INFO  Brand:28 - Set brand id
+2018-10-29 16:15:19 INFO  Brand:34 - Set brand name
+2018-10-29 16:15:19 DEBUG getAllLevelCar:159 - ==>  Preparing: Select * from Level 
+2018-10-29 16:15:19 DEBUG getAllLevelCar:159 - ==> Parameters: 
+2018-10-29 16:15:19 TRACE getAllLevelCar:165 - <==    Columns: Id, Name
+2018-10-29 16:15:19 TRACE getAllLevelCar:165 - <==        Row: 1, Passenger
+2018-10-29 16:15:19 TRACE getAllLevelCar:165 - <==        Row: 2, Minivan
+2018-10-29 16:15:19 TRACE getAllLevelCar:165 - <==        Row: 3, Cargo
+2018-10-29 16:15:19 DEBUG getAllLevelCar:159 - <==      Total: 3
+2018-10-29 16:16:45 ERROR Main:29 - error
+2018-10-29 16:16:45 WARN  Main:30 - warning
+2018-10-29 16:16:45 INFO  Main:31 - info
+2018-10-29 16:16:46 INFO  Brand:30 - Set brand id
+2018-10-29 16:16:46 INFO  Brand:36 - Set brand name
+2018-10-29 16:16:46 INFO  Brand:30 - Set brand id
+2018-10-29 16:16:46 INFO  Brand:36 - Set brand name
+2018-10-29 16:16:46 INFO  Brand:30 - Set brand id
+2018-10-29 16:16:46 INFO  Brand:36 - Set brand name
+2018-10-29 16:16:46 INFO  Brand:30 - Set brand id
+2018-10-29 16:16:46 INFO  Brand:36 - Set brand name
+2018-10-29 16:16:46 INFO  Brand:30 - Set brand id
+2018-10-29 16:16:46 INFO  Brand:36 - Set brand name
+2018-10-29 16:16:46 INFO  Brand:30 - Set brand id
+2018-10-29 16:16:46 INFO  Brand:36 - Set brand name
+2018-10-29 16:16:46 DEBUG getAllLevelCar:159 - ==>  Preparing: Select * from Level 
+2018-10-29 16:16:46 DEBUG getAllLevelCar:159 - ==> Parameters: 
+2018-10-29 16:16:46 TRACE getAllLevelCar:165 - <==    Columns: Id, Name
+2018-10-29 16:16:46 TRACE getAllLevelCar:165 - <==        Row: 1, Passenger
+2018-10-29 16:16:46 TRACE getAllLevelCar:165 - <==        Row: 2, Minivan
+2018-10-29 16:16:46 TRACE getAllLevelCar:165 - <==        Row: 3, Cargo
+2018-10-29 16:16:46 DEBUG getAllLevelCar:159 - <==      Total: 3
+2018-10-29 16:43:59 ERROR Main:29 - error
+2018-10-29 16:43:59 WARN  Main:30 - warning
+2018-10-29 16:43:59 INFO  Main:31 - info
+2018-10-29 16:44:00 INFO  Brand:31 - Set brand id
+2018-10-29 16:44:00 INFO  Brand:37 - Set brand name
+2018-10-29 16:44:00 INFO  Brand:31 - Set brand id
+2018-10-29 16:44:00 INFO  Brand:37 - Set brand name
+2018-10-29 16:44:00 INFO  Brand:31 - Set brand id
+2018-10-29 16:44:00 INFO  Brand:37 - Set brand name
+2018-10-29 16:44:00 INFO  Brand:31 - Set brand id
+2018-10-29 16:44:00 INFO  Brand:37 - Set brand name
+2018-10-29 16:44:00 INFO  Brand:31 - Set brand id
+2018-10-29 16:44:00 INFO  Brand:37 - Set brand name
+2018-10-29 16:44:00 INFO  Brand:31 - Set brand id
+2018-10-29 16:44:00 INFO  Brand:37 - Set brand name
+2018-10-29 16:44:00 DEBUG getAllLevelCar:159 - ==>  Preparing: Select * from Level 
+2018-10-29 16:44:00 DEBUG getAllLevelCar:159 - ==> Parameters: 
+2018-10-29 16:44:00 TRACE getAllLevelCar:165 - <==    Columns: Id, Name
+2018-10-29 16:44:00 TRACE getAllLevelCar:165 - <==        Row: 1, Passenger
+2018-10-29 16:44:00 TRACE getAllLevelCar:165 - <==        Row: 2, Minivan
+2018-10-29 16:44:00 TRACE getAllLevelCar:165 - <==        Row: 3, Cargo
+2018-10-29 16:44:00 DEBUG getAllLevelCar:159 - <==      Total: 3
+2018-10-29 17:22:51 ERROR Main:29 - error
+2018-10-29 17:22:51 WARN  Main:30 - warning
+2018-10-29 17:22:51 INFO  Main:31 - info
+2018-10-29 17:22:51 INFO  Brand:31 - Set brand id
+2018-10-29 17:22:51 INFO  Brand:37 - Set brand name
+2018-10-29 17:22:51 INFO  Brand:31 - Set brand id
+2018-10-29 17:22:51 INFO  Brand:37 - Set brand name
+2018-10-29 17:22:51 INFO  Brand:31 - Set brand id
+2018-10-29 17:22:51 INFO  Brand:37 - Set brand name
+2018-10-29 17:22:51 INFO  Brand:31 - Set brand id
+2018-10-29 17:22:51 INFO  Brand:37 - Set brand name
+2018-10-29 17:22:51 INFO  Brand:31 - Set brand id
+2018-10-29 17:22:51 INFO  Brand:37 - Set brand name
+2018-10-29 17:22:51 INFO  Brand:31 - Set brand id
+2018-10-29 17:22:51 INFO  Brand:37 - Set brand name
+2018-10-29 17:22:51 DEBUG getAllLevelCar:159 - ==>  Preparing: Select * from Level 
+2018-10-29 17:22:52 DEBUG getAllLevelCar:159 - ==> Parameters: 
+2018-10-29 17:22:52 TRACE getAllLevelCar:165 - <==    Columns: Id, Name
+2018-10-29 17:22:52 TRACE getAllLevelCar:165 - <==        Row: 1, Passenger
+2018-10-29 17:22:52 TRACE getAllLevelCar:165 - <==        Row: 2, Minivan
+2018-10-29 17:22:52 TRACE getAllLevelCar:165 - <==        Row: 3, Cargo
+2018-10-29 17:22:52 DEBUG getAllLevelCar:159 - <==      Total: 3
+2018-10-30 08:50:04 ERROR Main:29 - error
+2018-10-30 08:50:04 WARN  Main:30 - warning
+2018-10-30 08:50:04 INFO  Main:31 - info
+2018-10-30 08:51:55 ERROR Main:29 - error
+2018-10-30 08:51:55 WARN  Main:30 - warning
+2018-10-30 08:51:55 INFO  Main:31 - info
+2018-10-30 08:51:56 INFO  Brand:31 - Set brand id
+2018-10-30 08:51:56 INFO  Brand:37 - Set brand name
+2018-10-30 08:51:56 INFO  Brand:31 - Set brand id
+2018-10-30 08:51:56 INFO  Brand:37 - Set brand name
+2018-10-30 08:51:56 INFO  Brand:31 - Set brand id
+2018-10-30 08:51:56 INFO  Brand:37 - Set brand name
+2018-10-30 08:51:56 INFO  Brand:31 - Set brand id
+2018-10-30 08:51:56 INFO  Brand:37 - Set brand name
+2018-10-30 08:51:56 INFO  Brand:31 - Set brand id
+2018-10-30 08:51:56 INFO  Brand:37 - Set brand name
+2018-10-30 08:51:56 INFO  Brand:31 - Set brand id
+2018-10-30 08:51:56 INFO  Brand:37 - Set brand name
+2018-10-30 08:51:56 DEBUG getAllLevelCar:159 - ==>  Preparing: Select * from Level 
+2018-10-30 08:51:56 DEBUG getAllLevelCar:159 - ==> Parameters: 
+2018-10-30 08:51:57 TRACE getAllLevelCar:165 - <==    Columns: Id, Name
+2018-10-30 08:51:57 TRACE getAllLevelCar:165 - <==        Row: 1, Passenger
+2018-10-30 08:51:57 TRACE getAllLevelCar:165 - <==        Row: 2, Minivan
+2018-10-30 08:51:57 TRACE getAllLevelCar:165 - <==        Row: 3, Cargo
+2018-10-30 08:51:57 DEBUG getAllLevelCar:159 - <==      Total: 3
+2018-10-30 09:22:19 ERROR Main:29 - error
+2018-10-30 09:22:19 WARN  Main:30 - warning
+2018-10-30 09:22:19 INFO  Main:31 - info
+2018-10-30 09:22:20 INFO  Brand:31 - Set brand id
+2018-10-30 09:22:20 INFO  Brand:37 - Set brand name
+2018-10-30 09:22:20 INFO  Brand:31 - Set brand id
+2018-10-30 09:22:20 INFO  Brand:37 - Set brand name
+2018-10-30 09:22:20 INFO  Brand:31 - Set brand id
+2018-10-30 09:22:20 INFO  Brand:37 - Set brand name
+2018-10-30 09:22:20 INFO  Brand:31 - Set brand id
+2018-10-30 09:22:20 INFO  Brand:37 - Set brand name
+2018-10-30 09:22:20 INFO  Brand:31 - Set brand id
+2018-10-30 09:22:20 INFO  Brand:37 - Set brand name
+2018-10-30 09:22:20 INFO  Brand:31 - Set brand id
+2018-10-30 09:22:20 INFO  Brand:37 - Set brand name
+2018-10-30 09:22:20 DEBUG getAllLevelCar:159 - ==>  Preparing: Select * from Level 
+2018-10-30 09:22:20 DEBUG getAllLevelCar:159 - ==> Parameters: 
+2018-10-30 09:22:20 TRACE getAllLevelCar:165 - <==    Columns: Id, Name
+2018-10-30 09:22:20 TRACE getAllLevelCar:165 - <==        Row: 1, Passenger
+2018-10-30 09:22:20 TRACE getAllLevelCar:165 - <==        Row: 2, Minivan
+2018-10-30 09:22:20 TRACE getAllLevelCar:165 - <==        Row: 3, Cargo
+2018-10-30 09:22:20 DEBUG getAllLevelCar:159 - <==      Total: 3
+2018-10-30 12:45:35 ERROR Main:29 - error
+2018-10-30 12:45:35 WARN  Main:30 - warning
+2018-10-30 12:45:35 INFO  Main:31 - info
+2018-10-30 12:45:36 INFO  Brand:31 - Set brand id
+2018-10-30 12:45:36 INFO  Brand:37 - Set brand name
+2018-10-30 12:45:36 INFO  Brand:31 - Set brand id
+2018-10-30 12:45:36 INFO  Brand:37 - Set brand name
+2018-10-30 12:45:36 INFO  Brand:31 - Set brand id
+2018-10-30 12:45:36 INFO  Brand:37 - Set brand name
+2018-10-30 12:45:36 INFO  Brand:31 - Set brand id
+2018-10-30 12:45:36 INFO  Brand:37 - Set brand name
+2018-10-30 12:45:36 INFO  Brand:31 - Set brand id
+2018-10-30 12:45:36 INFO  Brand:37 - Set brand name
+2018-10-30 12:45:36 INFO  Brand:31 - Set brand id
+2018-10-30 12:45:36 INFO  Brand:37 - Set brand name
+2018-10-30 12:45:36 DEBUG getAllLevelCar:159 - ==>  Preparing: Select * from Level 
+2018-10-30 12:45:36 DEBUG getAllLevelCar:159 - ==> Parameters: 
+2018-10-30 12:45:36 TRACE getAllLevelCar:165 - <==    Columns: Id, Name
+2018-10-30 12:45:36 TRACE getAllLevelCar:165 - <==        Row: 1, Passenger
+2018-10-30 12:45:36 TRACE getAllLevelCar:165 - <==        Row: 2, Minivan
+2018-10-30 12:45:36 TRACE getAllLevelCar:165 - <==        Row: 3, Cargo
+2018-10-30 12:45:36 DEBUG getAllLevelCar:159 - <==      Total: 3
+2018-10-30 16:15:10 ERROR Main:59 - error
+2018-10-30 16:15:10 WARN  Main:60 - warning
+2018-10-30 16:15:10 INFO  Main:61 - info
+2018-10-30 16:15:13 INFO  Brand:31 - Set brand id
+2018-10-30 16:15:13 INFO  Brand:37 - Set brand name
+2018-10-30 16:15:13 INFO  Brand:31 - Set brand id
+2018-10-30 16:15:13 INFO  Brand:37 - Set brand name
+2018-10-30 16:15:13 INFO  Brand:31 - Set brand id
+2018-10-30 16:15:13 INFO  Brand:37 - Set brand name
+2018-10-30 16:15:13 INFO  Brand:31 - Set brand id
+2018-10-30 16:15:13 INFO  Brand:37 - Set brand name
+2018-10-30 16:15:13 INFO  Brand:31 - Set brand id
+2018-10-30 16:15:13 INFO  Brand:37 - Set brand name
+2018-10-30 16:15:13 INFO  Brand:31 - Set brand id
+2018-10-30 16:15:13 INFO  Brand:37 - Set brand name
+2018-10-30 16:15:13 DEBUG getAllLevelCar:159 - ==>  Preparing: Select * from Level 
+2018-10-30 16:15:13 DEBUG getAllLevelCar:159 - ==> Parameters: 
+2018-10-30 16:15:13 TRACE getAllLevelCar:165 - <==    Columns: Id, Name
+2018-10-30 16:15:13 TRACE getAllLevelCar:165 - <==        Row: 1, Passenger
+2018-10-30 16:15:13 TRACE getAllLevelCar:165 - <==        Row: 2, Minivan
+2018-10-30 16:15:13 TRACE getAllLevelCar:165 - <==        Row: 3, Cargo
+2018-10-30 16:15:13 DEBUG getAllLevelCar:159 - <==      Total: 3
+2018-10-30 16:38:09 ERROR Main:58 - error
+2018-10-30 16:38:09 WARN  Main:59 - warning
+2018-10-30 16:38:09 INFO  Main:60 - info
+2018-10-30 16:38:10 INFO  Brand:31 - Set brand id
+2018-10-30 16:38:10 INFO  Brand:37 - Set brand name
+2018-10-30 16:38:10 INFO  Brand:31 - Set brand id
+2018-10-30 16:38:10 INFO  Brand:37 - Set brand name
+2018-10-30 16:38:10 INFO  Brand:31 - Set brand id
+2018-10-30 16:38:10 INFO  Brand:37 - Set brand name
+2018-10-30 16:38:10 INFO  Brand:31 - Set brand id
+2018-10-30 16:38:10 INFO  Brand:37 - Set brand name
+2018-10-30 16:38:10 INFO  Brand:31 - Set brand id
+2018-10-30 16:38:10 INFO  Brand:37 - Set brand name
+2018-10-30 16:38:10 INFO  Brand:31 - Set brand id
+2018-10-30 16:38:10 INFO  Brand:37 - Set brand name
+2018-10-30 16:38:10 DEBUG getAllLevelCar:159 - ==>  Preparing: Select * from Level 
+2018-10-30 16:38:10 DEBUG getAllLevelCar:159 - ==> Parameters: 
+2018-10-30 16:38:10 TRACE getAllLevelCar:165 - <==    Columns: Id, Name
+2018-10-30 16:38:10 TRACE getAllLevelCar:165 - <==        Row: 1, Passenger
+2018-10-30 16:38:10 TRACE getAllLevelCar:165 - <==        Row: 2, Minivan
+2018-10-30 16:38:10 TRACE getAllLevelCar:165 - <==        Row: 3, Cargo
+2018-10-30 16:38:10 DEBUG getAllLevelCar:159 - <==      Total: 3
+2018-10-30 16:38:46 ERROR Main:60 - error
+2018-10-30 16:38:46 WARN  Main:61 - warning
+2018-10-30 16:38:46 INFO  Main:62 - info
+2018-10-30 16:38:46 INFO  Brand:31 - Set brand id
+2018-10-30 16:38:46 INFO  Brand:37 - Set brand name
+2018-10-30 16:38:46 INFO  Brand:31 - Set brand id
+2018-10-30 16:38:46 INFO  Brand:37 - Set brand name
+2018-10-30 16:38:46 INFO  Brand:31 - Set brand id
+2018-10-30 16:38:46 INFO  Brand:37 - Set brand name
+2018-10-30 16:38:46 INFO  Brand:31 - Set brand id
+2018-10-30 16:38:46 INFO  Brand:37 - Set brand name
+2018-10-30 16:38:46 INFO  Brand:31 - Set brand id
+2018-10-30 16:38:46 INFO  Brand:37 - Set brand name
+2018-10-30 16:38:46 INFO  Brand:31 - Set brand id
+2018-10-30 16:38:46 INFO  Brand:37 - Set brand name
+2018-10-30 16:38:46 DEBUG getAllLevelCar:159 - ==>  Preparing: Select * from Level 
+2018-10-30 16:38:47 DEBUG getAllLevelCar:159 - ==> Parameters: 
+2018-10-30 16:38:47 TRACE getAllLevelCar:165 - <==    Columns: Id, Name
+2018-10-30 16:38:47 TRACE getAllLevelCar:165 - <==        Row: 1, Passenger
+2018-10-30 16:38:47 TRACE getAllLevelCar:165 - <==        Row: 2, Minivan
+2018-10-30 16:38:47 TRACE getAllLevelCar:165 - <==        Row: 3, Cargo
+2018-10-30 16:38:47 DEBUG getAllLevelCar:159 - <==      Total: 3
+2018-10-30 16:39:22 ERROR Main:60 - error
+2018-10-30 16:39:22 WARN  Main:61 - warning
+2018-10-30 16:39:22 INFO  Main:62 - info
+2018-10-30 16:39:23 INFO  Brand:31 - Set brand id
+2018-10-30 16:39:23 INFO  Brand:37 - Set brand name
+2018-10-30 16:39:23 INFO  Brand:31 - Set brand id
+2018-10-30 16:39:23 INFO  Brand:37 - Set brand name
+2018-10-30 16:39:23 INFO  Brand:31 - Set brand id
+2018-10-30 16:39:23 INFO  Brand:37 - Set brand name
+2018-10-30 16:39:23 INFO  Brand:31 - Set brand id
+2018-10-30 16:39:23 INFO  Brand:37 - Set brand name
+2018-10-30 16:39:23 INFO  Brand:31 - Set brand id
+2018-10-30 16:39:23 INFO  Brand:37 - Set brand name
+2018-10-30 16:39:23 INFO  Brand:31 - Set brand id
+2018-10-30 16:39:23 INFO  Brand:37 - Set brand name
+2018-10-30 16:39:23 DEBUG getAllLevelCar:159 - ==>  Preparing: Select * from Level 
+2018-10-30 16:39:23 DEBUG getAllLevelCar:159 - ==> Parameters: 
+2018-10-30 16:39:23 TRACE getAllLevelCar:165 - <==    Columns: Id, Name
+2018-10-30 16:39:23 TRACE getAllLevelCar:165 - <==        Row: 1, Passenger
+2018-10-30 16:39:23 TRACE getAllLevelCar:165 - <==        Row: 2, Minivan
+2018-10-30 16:39:23 TRACE getAllLevelCar:165 - <==        Row: 3, Cargo
+2018-10-30 16:39:23 DEBUG getAllLevelCar:159 - <==      Total: 3
+2018-10-30 16:44:58 ERROR Main:60 - error
+2018-10-30 16:45:02 WARN  Main:61 - warning
+2018-10-30 16:45:03 INFO  Main:62 - info
+2018-10-30 16:45:29 INFO  Brand:31 - Set brand id
+2018-10-30 16:45:29 INFO  Brand:37 - Set brand name
+2018-10-30 16:45:29 INFO  Brand:31 - Set brand id
+2018-10-30 16:45:29 INFO  Brand:37 - Set brand name
+2018-10-30 16:45:29 INFO  Brand:31 - Set brand id
+2018-10-30 16:45:29 INFO  Brand:37 - Set brand name
+2018-10-30 16:45:29 INFO  Brand:31 - Set brand id
+2018-10-30 16:45:29 INFO  Brand:37 - Set brand name
+2018-10-30 16:45:29 INFO  Brand:31 - Set brand id
+2018-10-30 16:45:29 INFO  Brand:37 - Set brand name
+2018-10-30 16:45:29 INFO  Brand:31 - Set brand id
+2018-10-30 16:45:29 INFO  Brand:37 - Set brand name
+2018-10-30 16:45:29 DEBUG getAllLevelCar:159 - ==>  Preparing: Select * from Level 
+2018-10-30 16:45:30 DEBUG getAllLevelCar:159 - ==> Parameters: 
+2018-10-30 16:45:31 TRACE getAllLevelCar:165 - <==    Columns: Id, Name
+2018-10-30 16:45:31 TRACE getAllLevelCar:165 - <==        Row: 1, Passenger
+2018-10-30 16:45:31 TRACE getAllLevelCar:165 - <==        Row: 2, Minivan
+2018-10-30 16:45:31 TRACE getAllLevelCar:165 - <==        Row: 3, Cargo
+2018-10-30 16:45:31 DEBUG getAllLevelCar:159 - <==      Total: 3
+2018-10-31 09:31:48 INFO  Brand:31 - Set brand id
+2018-10-31 09:33:17 INFO  Brand:31 - Set brand id
+2018-10-31 09:34:07 INFO  Brand:31 - Set brand id
+2018-10-31 09:34:07 INFO  Brand:37 - Set brand name
+2018-10-31 09:34:07 INFO  Brand:31 - Set brand id
+2018-10-31 09:34:07 INFO  Brand:37 - Set brand name
+2018-10-31 09:34:07 INFO  Brand:31 - Set brand id
+2018-10-31 09:34:07 INFO  Brand:37 - Set brand name
+2018-10-31 09:34:07 INFO  Brand:31 - Set brand id
+2018-10-31 09:34:07 INFO  Brand:37 - Set brand name
+2018-10-31 09:34:07 INFO  Brand:31 - Set brand id
+2018-10-31 09:34:07 INFO  Brand:37 - Set brand name
+2018-10-31 09:34:07 INFO  Brand:31 - Set brand id
+2018-10-31 09:34:07 INFO  Brand:37 - Set brand name
+2018-10-31 09:34:07 INFO  Brand:25 - Get brand name
+2018-10-31 09:34:07 ERROR Main:49 - error
+2018-10-31 09:34:07 WARN  Main:50 - warning
+2018-10-31 09:34:07 INFO  Main:51 - info
+2018-10-31 09:35:34 INFO  Brand:31 - Set brand id
+2018-10-31 09:35:34 INFO  Brand:37 - Set brand name
+2018-10-31 09:35:34 INFO  Brand:31 - Set brand id
+2018-10-31 09:35:34 INFO  Brand:37 - Set brand name
+2018-10-31 09:35:34 INFO  Brand:31 - Set brand id
+2018-10-31 09:35:34 INFO  Brand:37 - Set brand name
+2018-10-31 09:35:34 INFO  Brand:31 - Set brand id
+2018-10-31 09:35:34 INFO  Brand:37 - Set brand name
+2018-10-31 09:35:34 INFO  Brand:31 - Set brand id
+2018-10-31 09:35:34 INFO  Brand:37 - Set brand name
+2018-10-31 09:35:34 INFO  Brand:31 - Set brand id
+2018-10-31 09:35:34 INFO  Brand:37 - Set brand name
+2018-10-31 09:35:34 INFO  Brand:25 - Get brand name
+2018-10-31 09:35:34 ERROR Main:49 - error
+2018-10-31 09:35:34 WARN  Main:50 - warning
+2018-10-31 09:35:34 INFO  Main:51 - info
+2018-10-31 09:35:35 INFO  Brand:31 - Set brand id
+2018-10-31 09:35:35 INFO  Brand:37 - Set brand name
+2018-10-31 09:35:35 INFO  Brand:31 - Set brand id
+2018-10-31 09:35:35 INFO  Brand:37 - Set brand name
+2018-10-31 09:35:35 INFO  Brand:31 - Set brand id
+2018-10-31 09:35:35 INFO  Brand:37 - Set brand name
+2018-10-31 09:35:35 INFO  Brand:31 - Set brand id
+2018-10-31 09:35:35 INFO  Brand:37 - Set brand name
+2018-10-31 09:35:35 INFO  Brand:31 - Set brand id
+2018-10-31 09:35:35 INFO  Brand:37 - Set brand name
+2018-10-31 09:35:35 INFO  Brand:31 - Set brand id
+2018-10-31 09:35:35 INFO  Brand:37 - Set brand name
+2018-10-31 09:35:35 DEBUG getAllLevelCar:159 - ==>  Preparing: Select * from Level 
+2018-10-31 09:35:35 DEBUG getAllLevelCar:159 - ==> Parameters: 
+2018-10-31 09:35:35 TRACE getAllLevelCar:165 - <==    Columns: Id, Name
+2018-10-31 09:35:35 TRACE getAllLevelCar:165 - <==        Row: 1, Passenger
+2018-10-31 09:35:35 TRACE getAllLevelCar:165 - <==        Row: 2, Minivan
+2018-10-31 09:35:35 TRACE getAllLevelCar:165 - <==        Row: 3, Cargo
+2018-10-31 09:35:35 DEBUG getAllLevelCar:159 - <==      Total: 3
+2018-10-31 10:53:19 ERROR Main:65 - error
+2018-10-31 10:53:19 WARN  Main:66 - warning
+2018-10-31 10:53:19 INFO  Main:67 - info
+2018-10-31 10:53:21 INFO  Brand:37 - Set brand id
+2018-10-31 10:53:21 INFO  Brand:43 - Set brand name
+2018-10-31 10:53:21 INFO  Brand:37 - Set brand id
+2018-10-31 10:53:21 INFO  Brand:43 - Set brand name
+2018-10-31 10:53:21 INFO  Brand:37 - Set brand id
+2018-10-31 10:53:21 INFO  Brand:43 - Set brand name
+2018-10-31 10:53:21 INFO  Brand:37 - Set brand id
+2018-10-31 10:53:21 INFO  Brand:43 - Set brand name
+2018-10-31 10:53:21 INFO  Brand:37 - Set brand id
+2018-10-31 10:53:21 INFO  Brand:43 - Set brand name
+2018-10-31 10:53:21 INFO  Brand:37 - Set brand id
+2018-10-31 10:53:21 INFO  Brand:43 - Set brand name
+2018-10-31 10:53:21 DEBUG getAllLevelCar:159 - ==>  Preparing: Select * from Level 
+2018-10-31 10:53:21 DEBUG getAllLevelCar:159 - ==> Parameters: 
+2018-10-31 10:53:21 TRACE getAllLevelCar:165 - <==    Columns: Id, Name
+2018-10-31 10:53:21 TRACE getAllLevelCar:165 - <==        Row: 1, Passenger
+2018-10-31 10:53:21 TRACE getAllLevelCar:165 - <==        Row: 2, Minivan
+2018-10-31 10:53:21 TRACE getAllLevelCar:165 - <==        Row: 3, Cargo
+2018-10-31 10:53:21 DEBUG getAllLevelCar:159 - <==      Total: 3
+2018-10-31 10:55:23 ERROR Main:66 - error
+2018-10-31 10:55:23 WARN  Main:67 - warning
+2018-10-31 10:55:23 INFO  Main:68 - info
+2018-10-31 10:55:24 INFO  Brand:37 - Set brand id
+2018-10-31 10:55:24 INFO  Brand:43 - Set brand name
+2018-10-31 10:55:24 INFO  Brand:37 - Set brand id
+2018-10-31 10:55:24 INFO  Brand:43 - Set brand name
+2018-10-31 10:55:24 INFO  Brand:37 - Set brand id
+2018-10-31 10:55:24 INFO  Brand:43 - Set brand name
+2018-10-31 10:55:24 INFO  Brand:37 - Set brand id
+2018-10-31 10:55:24 INFO  Brand:43 - Set brand name
+2018-10-31 10:55:24 INFO  Brand:37 - Set brand id
+2018-10-31 10:55:24 INFO  Brand:43 - Set brand name
+2018-10-31 10:55:24 INFO  Brand:37 - Set brand id
+2018-10-31 10:55:24 INFO  Brand:43 - Set brand name
+2018-10-31 10:55:24 DEBUG getAllLevelCar:159 - ==>  Preparing: Select * from Level 
+2018-10-31 10:55:24 DEBUG getAllLevelCar:159 - ==> Parameters: 
+2018-10-31 10:55:24 TRACE getAllLevelCar:165 - <==    Columns: Id, Name
+2018-10-31 10:55:24 TRACE getAllLevelCar:165 - <==        Row: 1, Passenger
+2018-10-31 10:55:24 TRACE getAllLevelCar:165 - <==        Row: 2, Minivan
+2018-10-31 10:55:24 TRACE getAllLevelCar:165 - <==        Row: 3, Cargo
+2018-10-31 10:55:24 DEBUG getAllLevelCar:159 - <==      Total: 3
+2018-10-31 10:58:36 ERROR Main:66 - error
+2018-10-31 10:58:36 WARN  Main:67 - warning
+2018-10-31 10:58:36 INFO  Main:68 - info
+2018-10-31 10:58:37 INFO  Brand:37 - Set brand id
+2018-10-31 10:58:37 INFO  Brand:43 - Set brand name
+2018-10-31 10:58:37 INFO  Brand:37 - Set brand id
+2018-10-31 10:58:37 INFO  Brand:43 - Set brand name
+2018-10-31 10:58:37 INFO  Brand:37 - Set brand id
+2018-10-31 10:58:37 INFO  Brand:43 - Set brand name
+2018-10-31 10:58:37 INFO  Brand:37 - Set brand id
+2018-10-31 10:58:37 INFO  Brand:43 - Set brand name
+2018-10-31 10:58:37 INFO  Brand:37 - Set brand id
+2018-10-31 10:58:37 INFO  Brand:43 - Set brand name
+2018-10-31 10:58:37 INFO  Brand:37 - Set brand id
+2018-10-31 10:58:37 INFO  Brand:43 - Set brand name
+2018-10-31 10:58:37 DEBUG getAllLevelCar:159 - ==>  Preparing: Select * from Level 
+2018-10-31 10:58:37 DEBUG getAllLevelCar:159 - ==> Parameters: 
+2018-10-31 10:58:37 TRACE getAllLevelCar:165 - <==    Columns: Id, Name
+2018-10-31 10:58:37 TRACE getAllLevelCar:165 - <==        Row: 1, Passenger
+2018-10-31 10:58:37 TRACE getAllLevelCar:165 - <==        Row: 2, Minivan
+2018-10-31 10:58:37 TRACE getAllLevelCar:165 - <==        Row: 3, Cargo
+2018-10-31 10:58:37 DEBUG getAllLevelCar:159 - <==      Total: 3
+2018-10-31 10:58:42 ERROR Main:66 - error
+2018-10-31 10:58:42 WARN  Main:67 - warning
+2018-10-31 10:58:42 INFO  Main:68 - info
+2018-10-31 11:00:51 ERROR Main:66 - error
+2018-10-31 11:00:51 WARN  Main:67 - warning
+2018-10-31 11:00:51 INFO  Main:68 - info
+2018-10-31 11:00:52 INFO  Brand:37 - Set brand id
+2018-10-31 11:00:52 INFO  Brand:43 - Set brand name
+2018-10-31 11:00:52 INFO  Brand:37 - Set brand id
+2018-10-31 11:00:52 INFO  Brand:43 - Set brand name
+2018-10-31 11:00:52 INFO  Brand:37 - Set brand id
+2018-10-31 11:00:52 INFO  Brand:43 - Set brand name
+2018-10-31 11:00:52 INFO  Brand:37 - Set brand id
+2018-10-31 11:00:52 INFO  Brand:43 - Set brand name
+2018-10-31 11:00:52 INFO  Brand:37 - Set brand id
+2018-10-31 11:00:52 INFO  Brand:43 - Set brand name
+2018-10-31 11:00:52 INFO  Brand:37 - Set brand id
+2018-10-31 11:00:52 INFO  Brand:43 - Set brand name
+2018-10-31 11:00:52 DEBUG getAllLevelCar:159 - ==>  Preparing: Select * from Level 
+2018-10-31 11:00:52 DEBUG getAllLevelCar:159 - ==> Parameters: 
+2018-10-31 11:00:52 TRACE getAllLevelCar:165 - <==    Columns: Id, Name
+2018-10-31 11:00:52 TRACE getAllLevelCar:165 - <==        Row: 1, Passenger
+2018-10-31 11:00:52 TRACE getAllLevelCar:165 - <==        Row: 2, Minivan
+2018-10-31 11:00:52 TRACE getAllLevelCar:165 - <==        Row: 3, Cargo
+2018-10-31 11:00:52 DEBUG getAllLevelCar:159 - <==      Total: 3
+2018-10-31 11:04:42 ERROR Main:66 - error
+2018-10-31 11:04:42 WARN  Main:67 - warning
+2018-10-31 11:04:42 INFO  Main:68 - info
+2018-10-31 11:04:43 INFO  Brand:37 - Set brand id
+2018-10-31 11:04:43 INFO  Brand:43 - Set brand name
+2018-10-31 11:04:43 INFO  Brand:37 - Set brand id
+2018-10-31 11:04:43 INFO  Brand:43 - Set brand name
+2018-10-31 11:04:43 INFO  Brand:37 - Set brand id
+2018-10-31 11:04:43 INFO  Brand:43 - Set brand name
+2018-10-31 11:04:43 INFO  Brand:37 - Set brand id
+2018-10-31 11:04:43 INFO  Brand:43 - Set brand name
+2018-10-31 11:04:43 INFO  Brand:37 - Set brand id
+2018-10-31 11:04:43 INFO  Brand:43 - Set brand name
+2018-10-31 11:04:43 INFO  Brand:37 - Set brand id
+2018-10-31 11:04:43 INFO  Brand:43 - Set brand name
+2018-10-31 11:04:43 DEBUG getAllLevelCar:159 - ==>  Preparing: Select * from Level 
+2018-10-31 11:04:43 DEBUG getAllLevelCar:159 - ==> Parameters: 
+2018-10-31 11:04:43 TRACE getAllLevelCar:165 - <==    Columns: Id, Name
+2018-10-31 11:04:43 TRACE getAllLevelCar:165 - <==        Row: 1, Passenger
+2018-10-31 11:04:43 TRACE getAllLevelCar:165 - <==        Row: 2, Minivan
+2018-10-31 11:04:43 TRACE getAllLevelCar:165 - <==        Row: 3, Cargo
+2018-10-31 11:04:43 DEBUG getAllLevelCar:159 - <==      Total: 3
+2018-10-31 11:05:06 ERROR Main:66 - error
+2018-10-31 11:05:06 WARN  Main:67 - warning
+2018-10-31 11:05:06 INFO  Main:68 - info
+2018-10-31 11:05:07 INFO  Brand:37 - Set brand id
+2018-10-31 11:05:07 INFO  Brand:43 - Set brand name
+2018-10-31 11:05:07 INFO  Brand:37 - Set brand id
+2018-10-31 11:05:07 INFO  Brand:43 - Set brand name
+2018-10-31 11:05:07 INFO  Brand:37 - Set brand id
+2018-10-31 11:05:07 INFO  Brand:43 - Set brand name
+2018-10-31 11:05:07 INFO  Brand:37 - Set brand id
+2018-10-31 11:05:07 INFO  Brand:43 - Set brand name
+2018-10-31 11:05:07 INFO  Brand:37 - Set brand id
+2018-10-31 11:05:07 INFO  Brand:43 - Set brand name
+2018-10-31 11:05:07 INFO  Brand:37 - Set brand id
+2018-10-31 11:05:07 INFO  Brand:43 - Set brand name
+2018-10-31 11:05:07 DEBUG getAllLevelCar:159 - ==>  Preparing: Select * from Level 
+2018-10-31 11:05:07 DEBUG getAllLevelCar:159 - ==> Parameters: 
+2018-10-31 11:05:07 TRACE getAllLevelCar:165 - <==    Columns: Id, Name
+2018-10-31 11:05:07 TRACE getAllLevelCar:165 - <==        Row: 1, Passenger
+2018-10-31 11:05:07 TRACE getAllLevelCar:165 - <==        Row: 2, Minivan
+2018-10-31 11:05:07 TRACE getAllLevelCar:165 - <==        Row: 3, Cargo
+2018-10-31 11:05:07 DEBUG getAllLevelCar:159 - <==      Total: 3
+2018-10-31 11:05:39 ERROR Main:64 - error
+2018-10-31 11:05:39 WARN  Main:65 - warning
+2018-10-31 11:05:39 INFO  Main:66 - info
+2018-10-31 11:05:39 INFO  Brand:37 - Set brand id
+2018-10-31 11:05:39 INFO  Brand:43 - Set brand name
+2018-10-31 11:05:39 INFO  Brand:37 - Set brand id
+2018-10-31 11:05:39 INFO  Brand:43 - Set brand name
+2018-10-31 11:05:39 INFO  Brand:37 - Set brand id
+2018-10-31 11:05:39 INFO  Brand:43 - Set brand name
+2018-10-31 11:05:40 INFO  Brand:37 - Set brand id
+2018-10-31 11:05:40 INFO  Brand:43 - Set brand name
+2018-10-31 11:05:40 INFO  Brand:37 - Set brand id
+2018-10-31 11:05:40 INFO  Brand:43 - Set brand name
+2018-10-31 11:05:40 INFO  Brand:37 - Set brand id
+2018-10-31 11:05:40 INFO  Brand:43 - Set brand name
+2018-10-31 11:05:40 DEBUG getAllLevelCar:159 - ==>  Preparing: Select * from Level 
+2018-10-31 11:05:40 DEBUG getAllLevelCar:159 - ==> Parameters: 
+2018-10-31 11:05:40 TRACE getAllLevelCar:165 - <==    Columns: Id, Name
+2018-10-31 11:05:40 TRACE getAllLevelCar:165 - <==        Row: 1, Passenger
+2018-10-31 11:05:40 TRACE getAllLevelCar:165 - <==        Row: 2, Minivan
+2018-10-31 11:05:40 TRACE getAllLevelCar:165 - <==        Row: 3, Cargo
+2018-10-31 11:05:40 DEBUG getAllLevelCar:159 - <==      Total: 3
+2018-10-31 15:14:03 INFO  Brand:35 - Set brand id
+2018-10-31 15:14:03 INFO  Brand:41 - Set brand name
+2018-10-31 15:14:03 INFO  Brand:35 - Set brand id
+2018-10-31 15:14:03 INFO  Brand:41 - Set brand name
+2018-10-31 15:14:03 INFO  Brand:35 - Set brand id
+2018-10-31 15:14:03 INFO  Brand:41 - Set brand name
+2018-10-31 15:14:03 INFO  Brand:35 - Set brand id
+2018-10-31 15:14:03 INFO  Brand:41 - Set brand name
+2018-10-31 15:14:03 INFO  Brand:35 - Set brand id
+2018-10-31 15:14:03 INFO  Brand:41 - Set brand name
+2018-10-31 15:14:03 INFO  Brand:35 - Set brand id
+2018-10-31 15:14:03 INFO  Brand:41 - Set brand name
+2018-10-31 15:15:40 INFO  Brand:34 - Set brand id
+2018-10-31 15:15:40 INFO  Brand:40 - Set brand name
+2018-10-31 15:15:40 INFO  Brand:34 - Set brand id
+2018-10-31 15:15:40 INFO  Brand:40 - Set brand name
+2018-10-31 15:15:40 INFO  Brand:34 - Set brand id
+2018-10-31 15:15:40 INFO  Brand:40 - Set brand name
+2018-10-31 15:15:40 INFO  Brand:34 - Set brand id
+2018-10-31 15:15:40 INFO  Brand:40 - Set brand name
+2018-10-31 15:15:40 INFO  Brand:34 - Set brand id
+2018-10-31 15:15:40 INFO  Brand:40 - Set brand name
+2018-10-31 15:15:40 INFO  Brand:34 - Set brand id
+2018-10-31 15:15:40 INFO  Brand:40 - Set brand name
+2018-10-31 17:26:17 INFO  Brand:33 - Set brand id
+2018-10-31 17:26:17 INFO  Brand:39 - Set brand name
+2018-10-31 17:26:17 INFO  Brand:33 - Set brand id
+2018-10-31 17:26:17 INFO  Brand:39 - Set brand name
+2018-10-31 17:26:17 INFO  Brand:33 - Set brand id
+2018-10-31 17:26:17 INFO  Brand:39 - Set brand name
+2018-10-31 17:26:17 INFO  Brand:33 - Set brand id
+2018-10-31 17:26:17 INFO  Brand:39 - Set brand name
+2018-10-31 17:26:17 INFO  Brand:33 - Set brand id
+2018-10-31 17:26:17 INFO  Brand:39 - Set brand name
+2018-10-31 17:26:17 INFO  Brand:33 - Set brand id
+2018-10-31 17:26:17 INFO  Brand:39 - Set brand name
+2018-10-31 17:26:33 INFO  Brand:33 - Set brand id
+2018-10-31 17:26:33 INFO  Brand:39 - Set brand name
+2018-10-31 17:26:33 INFO  Brand:33 - Set brand id
+2018-10-31 17:26:33 INFO  Brand:39 - Set brand name
+2018-10-31 17:26:33 INFO  Brand:33 - Set brand id
+2018-10-31 17:26:33 INFO  Brand:39 - Set brand name
+2018-10-31 17:26:33 INFO  Brand:33 - Set brand id
+2018-10-31 17:26:33 INFO  Brand:39 - Set brand name
+2018-10-31 17:26:33 INFO  Brand:33 - Set brand id
+2018-10-31 17:26:33 INFO  Brand:39 - Set brand name
+2018-10-31 17:26:33 INFO  Brand:33 - Set brand id
+2018-10-31 17:26:33 INFO  Brand:39 - Set brand name
+2018-10-31 19:31:49 INFO  Brand:33 - Set brand id
+2018-10-31 19:31:49 INFO  Brand:39 - Set brand name
+2018-10-31 19:31:49 INFO  Brand:33 - Set brand id
+2018-10-31 19:31:49 INFO  Brand:39 - Set brand name
+2018-10-31 19:31:49 INFO  Brand:33 - Set brand id
+2018-10-31 19:31:49 INFO  Brand:39 - Set brand name
+2018-10-31 19:31:49 INFO  Brand:33 - Set brand id
+2018-10-31 19:31:49 INFO  Brand:39 - Set brand name
+2018-10-31 19:31:49 INFO  Brand:33 - Set brand id
+2018-10-31 19:31:49 INFO  Brand:39 - Set brand name
+2018-10-31 19:31:49 INFO  Brand:33 - Set brand id
+2018-10-31 19:31:49 INFO  Brand:39 - Set brand name
+2018-10-31 19:51:18 INFO  Brand:33 - Set brand id
+2018-10-31 19:51:18 INFO  Brand:39 - Set brand name
+2018-10-31 19:51:18 INFO  Brand:33 - Set brand id
+2018-10-31 19:51:18 INFO  Brand:39 - Set brand name
+2018-10-31 19:51:18 INFO  Brand:33 - Set brand id
+2018-10-31 19:51:18 INFO  Brand:39 - Set brand name
+2018-10-31 19:51:18 INFO  Brand:33 - Set brand id
+2018-10-31 19:51:18 INFO  Brand:39 - Set brand name
+2018-10-31 19:51:18 INFO  Brand:33 - Set brand id
+2018-10-31 19:51:18 INFO  Brand:39 - Set brand name
+2018-10-31 19:51:18 INFO  Brand:33 - Set brand id
+2018-10-31 19:51:18 INFO  Brand:39 - Set brand name
+2018-10-31 21:16:35 INFO  Brand:21 - Get brand id
+2018-10-31 21:16:35 INFO  Brand:21 - Get brand id
+2018-10-31 21:19:05 INFO  Brand:21 - Get brand id
+2018-10-31 21:19:05 INFO  Brand:21 - Get brand id
+2018-10-31 21:36:29 INFO  Brand:21 - Get brand id
+2018-10-31 21:36:29 INFO  Brand:21 - Get brand id
+2018-11-01 09:51:56 INFO  Brand:33 - Set brand id
+2018-11-01 09:51:56 INFO  Brand:39 - Set brand name
+2018-11-01 09:51:56 INFO  Brand:33 - Set brand id
+2018-11-01 09:51:56 INFO  Brand:39 - Set brand name
+2018-11-01 09:51:56 INFO  Brand:33 - Set brand id
+2018-11-01 09:51:56 INFO  Brand:39 - Set brand name
+2018-11-01 09:51:56 INFO  Brand:33 - Set brand id
+2018-11-01 09:51:56 INFO  Brand:39 - Set brand name
+2018-11-01 09:51:56 INFO  Brand:33 - Set brand id
+2018-11-01 09:51:56 INFO  Brand:39 - Set brand name
+2018-11-01 09:51:56 INFO  Brand:33 - Set brand id
+2018-11-01 09:51:56 INFO  Brand:39 - Set brand name
+2018-11-01 10:20:03 DEBUG getAllLevelCar:159 - ==>  Preparing: Select * from Level 
+2018-11-01 10:20:04 DEBUG getAllLevelCar:159 - ==> Parameters: 
+2018-11-01 10:20:04 TRACE getAllLevelCar:165 - <==    Columns: Id, Name
+2018-11-01 10:20:04 TRACE getAllLevelCar:165 - <==        Row: 1, Passenger
+2018-11-01 10:20:04 TRACE getAllLevelCar:165 - <==        Row: 2, Minivan
+2018-11-01 10:20:04 TRACE getAllLevelCar:165 - <==        Row: 3, Cargo
+2018-11-01 10:20:04 DEBUG getAllLevelCar:159 - <==      Total: 3
+2018-11-01 10:20:47 INFO  Brand:33 - Set brand id
+2018-11-01 10:20:47 INFO  Brand:39 - Set brand name
+2018-11-01 10:20:47 INFO  Brand:33 - Set brand id
+2018-11-01 10:20:47 INFO  Brand:39 - Set brand name
+2018-11-01 10:20:47 INFO  Brand:33 - Set brand id
+2018-11-01 10:20:47 INFO  Brand:39 - Set brand name
+2018-11-01 10:20:47 INFO  Brand:33 - Set brand id
+2018-11-01 10:20:47 INFO  Brand:39 - Set brand name
+2018-11-01 10:20:47 INFO  Brand:33 - Set brand id
+2018-11-01 10:20:47 INFO  Brand:39 - Set brand name
+2018-11-01 10:20:47 INFO  Brand:33 - Set brand id
+2018-11-01 10:20:47 INFO  Brand:39 - Set brand name
+2018-11-01 17:17:41 INFO  Brand:21 - Get brand id
+2018-11-01 17:17:41 INFO  Brand:21 - Get brand id
+2018-11-01 17:18:07 INFO  Brand:21 - Get brand id
+2018-11-01 17:18:07 INFO  Brand:21 - Get brand id
+2018-11-01 17:18:16 INFO  Brand:21 - Get brand id
+2018-11-01 17:18:52 INFO  Brand:21 - Get brand id
+2018-11-01 17:19:59 INFO  Brand:21 - Get brand id
+2018-11-01 17:23:25 INFO  Brand:21 - Get brand id
+2018-11-01 20:27:16 INFO  Brand:21 - Get brand id
+2018-11-01 20:29:49 INFO  Brand:21 - Get brand id
+2018-11-02 19:07:29 INFO  Brand:30 - Get brand id
+2018-11-02 19:34:24 INFO  Brand:30 - Get brand id
+2018-11-02 20:46:29 INFO  Brand:30 - Get brand id
+2018-11-02 20:48:30 INFO  Brand:42 - Set brand id
+2018-11-02 20:48:30 INFO  Brand:48 - Set brand name
+2018-11-02 20:48:30 INFO  Brand:42 - Set brand id
+2018-11-02 20:48:30 INFO  Brand:48 - Set brand name
+2018-11-02 20:48:30 INFO  Brand:42 - Set brand id
+2018-11-02 20:48:30 INFO  Brand:48 - Set brand name
+2018-11-02 20:48:30 INFO  Brand:42 - Set brand id
+2018-11-02 20:48:30 INFO  Brand:48 - Set brand name
+2018-11-02 20:48:30 INFO  Brand:42 - Set brand id
+2018-11-02 20:48:30 INFO  Brand:48 - Set brand name
+2018-11-02 20:48:30 INFO  Brand:42 - Set brand id
+2018-11-02 20:48:30 INFO  Brand:48 - Set brand name
+2018-11-03 15:18:27 INFO  Brand:42 - Set brand id
+2018-11-03 15:18:27 INFO  Brand:48 - Set brand name
+2018-11-03 15:18:27 INFO  Brand:42 - Set brand id
+2018-11-03 15:18:27 INFO  Brand:48 - Set brand name
+2018-11-03 15:18:27 INFO  Brand:42 - Set brand id
+2018-11-03 15:18:27 INFO  Brand:48 - Set brand name
+2018-11-03 15:21:40 INFO  Brand:42 - Set brand id
+2018-11-03 15:21:40 INFO  Brand:48 - Set brand name
+2018-11-03 15:29:45 INFO  Brand:42 - Set brand id
+2018-11-03 15:29:45 INFO  Brand:48 - Set brand name
+2018-11-03 15:29:45 INFO  Brand:42 - Set brand id
+2018-11-03 15:29:45 INFO  Brand:48 - Set brand name
+2018-11-03 15:29:45 INFO  Brand:42 - Set brand id
+2018-11-03 15:29:45 INFO  Brand:48 - Set brand name
+2018-11-03 15:30:09 INFO  Brand:42 - Set brand id
+2018-11-03 15:30:09 INFO  Brand:48 - Set brand name
+2018-11-03 15:30:09 INFO  Brand:42 - Set brand id
+2018-11-03 15:30:09 INFO  Brand:48 - Set brand name
+2018-11-03 15:30:09 INFO  Brand:42 - Set brand id
+2018-11-03 15:30:09 INFO  Brand:48 - Set brand name
+2018-11-03 15:30:09 INFO  Brand:42 - Set brand id
+2018-11-03 15:30:09 INFO  Brand:48 - Set brand name
+2018-11-03 15:38:52 DEBUG getAllLevelCar:159 - ==>  Preparing: Select * from Level 
+2018-11-03 15:38:52 DEBUG getAllLevelCar:159 - ==> Parameters: 
+2018-11-03 15:38:52 TRACE getAllLevelCar:165 - <==    Columns: id, name
+2018-11-03 15:38:52 TRACE getAllLevelCar:165 - <==        Row: 1, PASSENGER
+2018-11-03 15:38:52 TRACE getAllLevelCar:165 - <==        Row: 2, MINIVAN
+2018-11-03 15:38:52 TRACE getAllLevelCar:165 - <==        Row: 3, CARGO
+2018-11-03 15:38:52 DEBUG getAllLevelCar:159 - <==      Total: 3
+2018-11-03 15:40:05 INFO  Brand:42 - Set brand id
+2018-11-03 15:40:05 INFO  Brand:48 - Set brand name
+2018-11-03 15:40:05 INFO  Brand:42 - Set brand id
+2018-11-03 15:40:05 INFO  Brand:48 - Set brand name
+2018-11-03 15:40:05 INFO  Brand:42 - Set brand id
+2018-11-03 15:40:05 INFO  Brand:48 - Set brand name
+2018-11-03 15:46:18 INFO  Brand:42 - Set brand id
+2018-11-03 15:46:18 INFO  Brand:48 - Set brand name
+2018-11-03 15:46:18 INFO  Brand:42 - Set brand id
+2018-11-03 15:46:18 INFO  Brand:48 - Set brand name
+2018-11-03 15:46:18 INFO  Brand:42 - Set brand id
+2018-11-03 15:46:18 INFO  Brand:48 - Set brand name
+2018-11-03 15:50:44 DEBUG getAllLevelCar:159 - ==>  Preparing: Select * from Level 
+2018-11-03 15:50:44 DEBUG getAllLevelCar:159 - ==> Parameters: 
+2018-11-03 15:50:44 TRACE getAllLevelCar:165 - <==    Columns: id, name
+2018-11-03 15:50:44 TRACE getAllLevelCar:165 - <==        Row: 1, PASSENGER
+2018-11-03 15:50:44 TRACE getAllLevelCar:165 - <==        Row: 2, MINIVAN
+2018-11-03 15:50:44 TRACE getAllLevelCar:165 - <==        Row: 3, CARGO
+2018-11-03 15:50:44 DEBUG getAllLevelCar:159 - <==      Total: 3
+2018-11-03 16:07:15 INFO  Brand:42 - Set brand id
+2018-11-03 16:07:15 INFO  Brand:48 - Set brand name
+2018-11-03 16:07:15 INFO  Brand:42 - Set brand id
+2018-11-03 16:07:15 INFO  Brand:48 - Set brand name
+2018-11-03 16:07:15 INFO  Brand:42 - Set brand id
+2018-11-03 16:07:15 INFO  Brand:48 - Set brand name
+2018-11-03 16:14:02 INFO  Brand:42 - Set brand id
+2018-11-03 16:14:02 INFO  Brand:48 - Set brand name
+2018-11-03 16:14:02 INFO  Brand:42 - Set brand id
+2018-11-03 16:14:02 INFO  Brand:48 - Set brand name
+2018-11-03 16:14:02 INFO  Brand:42 - Set brand id
+2018-11-03 16:14:02 INFO  Brand:48 - Set brand name
+2018-11-03 16:34:59 INFO  Brand:42 - Set brand id
+2018-11-03 16:34:59 INFO  Brand:48 - Set brand name
+2018-11-03 16:34:59 INFO  Brand:42 - Set brand id
+2018-11-03 16:34:59 INFO  Brand:48 - Set brand name
+2018-11-03 16:34:59 INFO  Brand:42 - Set brand id
+2018-11-03 16:34:59 INFO  Brand:48 - Set brand name
+2018-11-03 16:38:11 DEBUG getAllLevelCar:159 - ==>  Preparing: Select * from Level 
+2018-11-03 16:38:11 DEBUG getAllLevelCar:159 - ==> Parameters: 
+2018-11-03 16:38:11 TRACE getAllLevelCar:165 - <==    Columns: id, name
+2018-11-03 16:38:11 TRACE getAllLevelCar:165 - <==        Row: 1, PASSENGER
+2018-11-03 16:38:11 TRACE getAllLevelCar:165 - <==        Row: 2, MINIVAN
+2018-11-03 16:38:11 TRACE getAllLevelCar:165 - <==        Row: 3, CARGO
+2018-11-03 16:38:11 DEBUG getAllLevelCar:159 - <==      Total: 3
+2018-11-03 16:40:19 INFO  Brand:42 - Set brand id
+2018-11-03 16:40:19 INFO  Brand:48 - Set brand name
+2018-11-03 16:40:19 INFO  Brand:42 - Set brand id
+2018-11-03 16:40:19 INFO  Brand:48 - Set brand name
+2018-11-03 16:40:19 INFO  Brand:42 - Set brand id
+2018-11-03 16:40:19 INFO  Brand:48 - Set brand name
+2018-11-03 16:41:39 INFO  Brand:42 - Set brand id
+2018-11-03 16:41:39 INFO  Brand:48 - Set brand name
+2018-11-03 16:41:39 INFO  Brand:42 - Set brand id
+2018-11-03 16:41:39 INFO  Brand:48 - Set brand name
+2018-11-03 16:41:39 INFO  Brand:42 - Set brand id
+2018-11-03 16:41:39 INFO  Brand:48 - Set brand name
+2018-11-03 16:42:27 INFO  Brand:42 - Set brand id
+2018-11-03 16:42:27 INFO  Brand:48 - Set brand name
+2018-11-03 16:42:27 INFO  Brand:42 - Set brand id
+2018-11-03 16:42:27 INFO  Brand:48 - Set brand name
+2018-11-03 16:42:28 INFO  Brand:42 - Set brand id
+2018-11-03 16:42:28 INFO  Brand:48 - Set brand name
+2018-11-03 16:48:18 INFO  Brand:42 - Set brand id
+2018-11-03 16:48:18 INFO  Brand:48 - Set brand name
+2018-11-03 16:48:18 INFO  Brand:42 - Set brand id
+2018-11-03 16:48:18 INFO  Brand:48 - Set brand name
+2018-11-03 16:48:18 INFO  Brand:42 - Set brand id
+2018-11-03 16:48:18 INFO  Brand:48 - Set brand name
+2018-11-03 16:49:10 INFO  Brand:42 - Set brand id
+2018-11-03 16:49:10 INFO  Brand:48 - Set brand name
+2018-11-03 16:49:10 INFO  Brand:42 - Set brand id
+2018-11-03 16:49:10 INFO  Brand:48 - Set brand name
+2018-11-03 16:49:10 INFO  Brand:42 - Set brand id
+2018-11-03 16:49:10 INFO  Brand:48 - Set brand name
+2018-11-03 16:49:35 DEBUG getAllLevelCar:159 - ==>  Preparing: Select * from Level 
+2018-11-03 16:49:35 DEBUG getAllLevelCar:159 - ==> Parameters: 
+2018-11-03 16:49:35 TRACE getAllLevelCar:165 - <==    Columns: id, name
+2018-11-03 16:49:35 TRACE getAllLevelCar:165 - <==        Row: 1, PASSENGER
+2018-11-03 16:49:35 TRACE getAllLevelCar:165 - <==        Row: 2, MINIVAN
+2018-11-03 16:49:35 TRACE getAllLevelCar:165 - <==        Row: 3, CARGO
+2018-11-03 16:49:35 DEBUG getAllLevelCar:159 - <==      Total: 3
+2018-11-03 17:07:18 INFO  Brand:42 - Set brand id
+2018-11-03 17:07:18 INFO  Brand:48 - Set brand name
+2018-11-03 17:07:18 INFO  Brand:42 - Set brand id
+2018-11-03 17:07:18 INFO  Brand:48 - Set brand name
+2018-11-03 17:07:18 INFO  Brand:42 - Set brand id
+2018-11-03 17:07:18 INFO  Brand:48 - Set brand name
+2018-11-03 17:07:32 DEBUG getAllLevelCar:159 - ==>  Preparing: Select * from Level 
+2018-11-03 17:07:32 DEBUG getAllLevelCar:159 - ==> Parameters: 
+2018-11-03 17:07:32 TRACE getAllLevelCar:165 - <==    Columns: id, name
+2018-11-03 17:07:32 TRACE getAllLevelCar:165 - <==        Row: 1, PASSENGER
+2018-11-03 17:07:32 TRACE getAllLevelCar:165 - <==        Row: 2, MINIVAN
+2018-11-03 17:07:32 TRACE getAllLevelCar:165 - <==        Row: 3, CARGO
+2018-11-03 17:07:32 DEBUG getAllLevelCar:159 - <==      Total: 3
+2018-11-03 17:13:38 INFO  Brand:42 - Set brand id
+2018-11-03 17:13:38 INFO  Brand:48 - Set brand name
+2018-11-03 17:13:38 INFO  Brand:42 - Set brand id
+2018-11-03 17:13:38 INFO  Brand:48 - Set brand name
+2018-11-03 17:13:38 INFO  Brand:42 - Set brand id
+2018-11-03 17:13:38 INFO  Brand:48 - Set brand name
+2018-11-03 17:13:38 INFO  BrandServiceImpl:32 - create List of Brands from DataBase
+2018-11-03 17:18:03 INFO  Brand:42 - Set brand id
+2018-11-03 17:18:03 INFO  Brand:48 - Set brand name
+2018-11-03 17:18:03 INFO  Brand:42 - Set brand id
+2018-11-03 17:18:03 INFO  Brand:48 - Set brand name
+2018-11-03 17:18:03 INFO  Brand:42 - Set brand id
+2018-11-03 17:18:03 INFO  Brand:48 - Set brand name
+2018-11-03 17:18:03 INFO  BrandServiceImpl:32 - create List of Brands from DataBase
+2018-11-03 17:18:03 INFO  BrandServiceImpl:32 - create List of Brands from DataBase
+2018-11-03 17:18:03 INFO  Brand:42 - Set brand id
+2018-11-03 17:18:03 INFO  Brand:36 - Get brand name
+2018-11-03 17:19:38 INFO  Brand:42 - Set brand id
+2018-11-03 17:19:38 INFO  Brand:48 - Set brand name
+2018-11-03 17:19:38 INFO  Brand:42 - Set brand id
+2018-11-03 17:19:38 INFO  Brand:48 - Set brand name
+2018-11-03 17:19:38 INFO  Brand:42 - Set brand id
+2018-11-03 17:19:38 INFO  Brand:48 - Set brand name
+2018-11-03 17:19:38 INFO  BrandServiceImpl:32 - create List of Brands from DataBase
+2018-11-03 17:19:38 INFO  BrandServiceImpl:32 - create List of Brands from DataBase
+2018-11-03 17:19:38 INFO  Brand:42 - Set brand id
+2018-11-03 17:19:38 INFO  Brand:36 - Get brand name
+2018-11-03 17:21:55 INFO  Brand:42 - Set brand id
+2018-11-03 17:21:55 INFO  Brand:48 - Set brand name
+2018-11-03 17:21:55 INFO  Brand:42 - Set brand id
+2018-11-03 17:21:55 INFO  Brand:48 - Set brand name
+2018-11-03 17:21:55 INFO  Brand:42 - Set brand id
+2018-11-03 17:21:55 INFO  Brand:48 - Set brand name
+2018-11-03 17:21:55 INFO  BrandServiceImpl:32 - create List of Brands from DataBase
+2018-11-03 17:25:37 INFO  Brand:43 - Set brand id
+2018-11-03 17:25:37 INFO  Brand:49 - Set brand name
+2018-11-03 17:25:37 INFO  Brand:43 - Set brand id
+2018-11-03 17:25:37 INFO  Brand:49 - Set brand name
+2018-11-03 17:25:37 INFO  Brand:43 - Set brand id
+2018-11-03 17:25:37 INFO  Brand:49 - Set brand name
+2018-11-03 17:25:37 INFO  BrandServiceImpl:32 - create List of Brands from DataBase
+2018-11-03 17:26:32 INFO  Brand:43 - Set brand id
+2018-11-03 17:26:32 INFO  Brand:49 - Set brand name
+2018-11-03 17:26:32 INFO  Brand:43 - Set brand id
+2018-11-03 17:26:32 INFO  Brand:49 - Set brand name
+2018-11-03 17:26:32 INFO  Brand:43 - Set brand id
+2018-11-03 17:26:32 INFO  Brand:49 - Set brand name
+2018-11-03 17:26:32 INFO  BrandServiceImpl:32 - create List of Brands from DataBase
+2018-11-03 17:28:13 INFO  Brand:43 - Set brand id
+2018-11-03 17:28:13 INFO  Brand:49 - Set brand name
+2018-11-03 17:28:13 INFO  Brand:43 - Set brand id
+2018-11-03 17:28:13 INFO  Brand:49 - Set brand name
+2018-11-03 17:28:13 INFO  Brand:43 - Set brand id
+2018-11-03 17:28:13 INFO  Brand:49 - Set brand name
+2018-11-03 17:28:13 INFO  BrandServiceImpl:32 - create List of Brands from DataBase
+2018-11-03 17:28:50 INFO  Brand:43 - Set brand id
+2018-11-03 17:28:50 INFO  Brand:49 - Set brand name
+2018-11-03 17:28:50 INFO  Brand:43 - Set brand id
+2018-11-03 17:28:50 INFO  Brand:49 - Set brand name
+2018-11-03 17:28:50 INFO  Brand:43 - Set brand id
+2018-11-03 17:28:50 INFO  Brand:49 - Set brand name
+2018-11-03 17:28:50 INFO  BrandServiceImpl:32 - create List of Brands from DataBase
+2018-11-03 17:29:48 INFO  Brand:43 - Set brand id
+2018-11-03 17:29:48 INFO  Brand:49 - Set brand name
+2018-11-03 17:29:48 INFO  Brand:43 - Set brand id
+2018-11-03 17:29:48 INFO  Brand:49 - Set brand name
+2018-11-03 17:29:48 INFO  Brand:43 - Set brand id
+2018-11-03 17:29:48 INFO  Brand:49 - Set brand name
+2018-11-03 17:29:48 INFO  BrandServiceImpl:32 - create List of Brands from DataBase
+2018-11-03 17:37:09 INFO  Brand:43 - Set brand id
+2018-11-03 17:37:09 INFO  Brand:49 - Set brand name
+2018-11-03 17:37:09 INFO  Brand:43 - Set brand id
+2018-11-03 17:37:09 INFO  Brand:49 - Set brand name
+2018-11-03 17:37:09 INFO  Brand:43 - Set brand id
+2018-11-03 17:37:09 INFO  Brand:49 - Set brand name
+2018-11-03 17:37:09 INFO  BrandServiceImpl:32 - create List of Brands from DataBase
+2018-11-03 17:37:09 INFO  Brand:43 - Set brand id
+2018-11-03 17:37:09 INFO  Brand:49 - Set brand name
+2018-11-03 17:38:35 INFO  Brand:43 - Set brand id
+2018-11-03 17:38:35 INFO  Brand:49 - Set brand name
+2018-11-03 17:38:35 INFO  Brand:43 - Set brand id
+2018-11-03 17:38:35 INFO  Brand:49 - Set brand name
+2018-11-03 17:38:35 INFO  Brand:43 - Set brand id
+2018-11-03 17:38:35 INFO  Brand:49 - Set brand name
+2018-11-03 17:38:35 INFO  BrandServiceImpl:32 - create List of Brands from DataBase
+2018-11-03 17:38:35 INFO  Brand:43 - Set brand id
+2018-11-03 17:38:35 INFO  Brand:49 - Set brand name
+2018-11-03 17:38:35 INFO  Brand:43 - Set brand id
+2018-11-03 17:38:35 INFO  Brand:49 - Set brand name
+2018-11-03 17:38:35 INFO  Brand:43 - Set brand id
+2018-11-03 17:38:35 INFO  Brand:49 - Set brand name
+2018-11-03 17:39:27 INFO  Brand:43 - Set brand id
+2018-11-03 17:39:27 INFO  Brand:49 - Set brand name
+2018-11-03 17:39:27 INFO  Brand:37 - Get brand name
+2018-11-03 17:40:32 INFO  Brand:43 - Set brand id
+2018-11-03 17:40:32 INFO  Brand:49 - Set brand name
+2018-11-03 17:40:32 INFO  Brand:43 - Set brand id
+2018-11-03 17:40:32 INFO  Brand:49 - Set brand name
+2018-11-03 17:40:32 INFO  Brand:43 - Set brand id
+2018-11-03 17:40:32 INFO  Brand:49 - Set brand name
+2018-11-03 17:40:32 INFO  BrandServiceImpl:32 - create List of Brands from DataBase
+2018-11-03 17:40:32 INFO  Brand:43 - Set brand id
+2018-11-03 17:40:32 INFO  Brand:49 - Set brand name
+2018-11-03 17:40:32 INFO  Brand:43 - Set brand id
+2018-11-03 17:40:32 INFO  Brand:49 - Set brand name
+2018-11-03 17:40:32 INFO  Brand:43 - Set brand id
+2018-11-03 17:40:32 INFO  Brand:49 - Set brand name
+2018-11-03 17:41:17 INFO  Brand:43 - Set brand id
+2018-11-03 17:41:17 INFO  Brand:49 - Set brand name
+2018-11-03 17:41:17 INFO  Brand:37 - Get brand name
+2018-11-03 17:44:31 INFO  Brand:43 - Set brand id
+2018-11-03 17:44:31 INFO  Brand:49 - Set brand name
+2018-11-03 17:44:31 INFO  Brand:43 - Set brand id
+2018-11-03 17:44:31 INFO  Brand:49 - Set brand name
+2018-11-03 17:44:31 INFO  Brand:43 - Set brand id
+2018-11-03 17:44:31 INFO  Brand:49 - Set brand name
+2018-11-03 17:45:00 INFO  Brand:31 - Get brand id
+2018-11-03 20:29:21 INFO  Brand:41 - making toString method
+2018-11-03 20:29:21 INFO  Brand:41 - making toString method
+2018-11-03 20:29:21 INFO  Brand:41 - making toString method
+2018-11-03 20:29:21 INFO  Brand:41 - making toString method
+2018-11-03 20:29:21 INFO  Brand:41 - making toString method
+2018-11-03 20:29:21 INFO  Brand:41 - making toString method
+2018-11-03 20:29:21 INFO  Brand:41 - making toString method
+2018-11-03 20:29:21 INFO  Brand:41 - making toString method
+2018-11-03 20:29:21 INFO  Brand:41 - making toString method
+2018-11-03 20:29:21 INFO  Brand:41 - making toString method
+2018-11-03 20:29:21 INFO  Brand:41 - making toString method
+2018-11-03 20:32:44 INFO  Brand:43 - Set brand id
+2018-11-03 20:32:44 INFO  Brand:49 - Set brand name
+2018-11-03 20:32:44 INFO  Brand:37 - Get brand name
+2018-11-03 20:34:10 INFO  Brand:41 - making toString method
+2018-11-03 20:34:10 INFO  Brand:41 - making toString method
+2018-11-03 20:34:10 INFO  Brand:41 - making toString method
+2018-11-03 20:36:36 INFO  Brand:41 - making toString method
+2018-11-03 20:36:36 INFO  Brand:41 - making toString method
+2018-11-03 20:36:36 INFO  Brand:41 - making toString method
+2018-11-03 20:36:36 INFO  Brand:41 - making toString method
+2018-11-03 20:36:36 INFO  Brand:41 - making toString method
+2018-11-03 20:36:36 INFO  Brand:41 - making toString method
+2018-11-03 20:36:36 INFO  Brand:41 - making toString method
+2018-11-03 20:36:36 INFO  Brand:41 - making toString method
+2018-11-03 20:36:36 INFO  Brand:41 - making toString method
+2018-11-03 20:36:36 INFO  Brand:41 - making toString method
+2018-11-03 20:36:36 INFO  Brand:41 - making toString method
+2018-11-03 20:36:55 INFO  Brand:41 - making toString method
+2018-11-03 20:36:55 INFO  Brand:41 - making toString method
+2018-11-03 20:36:55 INFO  Brand:41 - making toString method
+2018-11-03 20:36:55 INFO  Brand:41 - making toString method
+2018-11-03 20:36:55 INFO  Brand:41 - making toString method
+2018-11-03 20:36:55 INFO  Brand:41 - making toString method
+2018-11-03 20:36:55 INFO  Brand:41 - making toString method
+2018-11-03 20:36:55 INFO  Brand:41 - making toString method
+2018-11-03 20:36:55 INFO  Brand:41 - making toString method
+2018-11-03 20:36:55 INFO  Brand:41 - making toString method
+2018-11-03 20:36:55 INFO  Brand:41 - making toString method
+2018-11-03 20:38:41 INFO  Brand:41 - making toString method
+2018-11-03 20:38:41 INFO  Brand:41 - making toString method
+2018-11-03 20:38:41 INFO  Brand:41 - making toString method
+2018-11-03 20:38:41 INFO  Brand:41 - making toString method
+2018-11-03 20:38:41 INFO  Brand:41 - making toString method
+2018-11-03 20:38:41 INFO  Brand:41 - making toString method
+2018-11-03 20:38:41 INFO  Brand:41 - making toString method
+2018-11-03 20:38:41 INFO  Brand:41 - making toString method
+2018-11-03 20:38:41 INFO  Brand:41 - making toString method
+2018-11-03 20:38:41 INFO  Brand:41 - making toString method
+2018-11-03 20:38:41 INFO  Brand:41 - making toString method
+2018-11-03 20:41:52 INFO  Brand:41 - making toString method
+2018-11-03 20:41:52 INFO  Brand:41 - making toString method
+2018-11-03 20:41:52 INFO  Brand:41 - making toString method
+2018-11-03 20:41:52 INFO  Brand:41 - making toString method
+2018-11-03 20:41:52 INFO  Brand:41 - making toString method
+2018-11-03 20:41:52 INFO  Brand:41 - making toString method
+2018-11-03 20:41:52 INFO  Brand:41 - making toString method
+2018-11-03 20:41:52 INFO  Brand:41 - making toString method
+2018-11-03 20:41:52 INFO  Brand:41 - making toString method
+2018-11-03 20:41:52 INFO  Brand:41 - making toString method
+2018-11-03 20:41:52 INFO  Brand:41 - making toString method
+2018-11-03 20:46:12 INFO  Brand:41 - making toString method
+2018-11-03 20:46:29 INFO  Brand:41 - making toString method
+2018-11-03 20:46:31 INFO  Brand:41 - making toString method
+2018-11-03 20:46:33 INFO  Brand:41 - making toString method
+2018-11-03 20:46:34 INFO  Brand:41 - making toString method
+2018-11-03 20:46:35 INFO  Brand:41 - making toString method
+2018-11-03 20:46:37 INFO  Brand:41 - making toString method
+2018-11-03 20:46:38 INFO  Brand:41 - making toString method
+2018-11-03 20:46:41 INFO  Brand:41 - making toString method
+2018-11-03 20:46:52 INFO  Brand:41 - making toString method
+2018-11-03 20:46:56 INFO  Brand:41 - making toString method
+2018-11-03 20:47:05 INFO  Brand:41 - making toString method
+2018-11-03 20:47:05 INFO  Brand:41 - making toString method
+2018-11-03 20:47:05 INFO  Brand:41 - making toString method
+2018-11-03 20:47:05 INFO  Brand:41 - making toString method
+2018-11-03 20:47:05 INFO  Brand:41 - making toString method
+2018-11-03 20:47:05 INFO  Brand:41 - making toString method
+2018-11-03 20:47:05 INFO  Brand:41 - making toString method
+2018-11-03 20:47:05 INFO  Brand:41 - making toString method
+2018-11-03 20:47:05 INFO  Brand:41 - making toString method
+2018-11-03 20:47:05 INFO  Brand:41 - making toString method
+2018-11-03 20:47:05 INFO  Brand:41 - making toString method
+2018-11-03 21:11:00 INFO  Brand:41 - making toString method
+2018-11-03 21:11:31 INFO  Brand:41 - making toString method
+2018-11-03 21:11:47 INFO  Brand:41 - making toString method
+2018-11-03 21:11:51 INFO  Brand:41 - making toString method
+2018-11-03 21:11:52 INFO  Brand:41 - making toString method
+2018-11-03 21:12:24 INFO  Brand:41 - making toString method
+2018-11-03 21:13:05 INFO  Brand:41 - making toString method
+2018-11-03 21:14:03 INFO  Brand:41 - making toString method
+2018-11-03 21:16:18 INFO  Brand:41 - making toString method
+2018-11-03 21:18:14 INFO  Brand:41 - making toString method
+2018-11-03 21:22:47 INFO  Brand:41 - making toString method
+2018-11-03 21:22:49 INFO  Brand:41 - making toString method
+2018-11-03 21:23:15 INFO  Brand:41 - making toString method
+2018-11-03 21:23:16 INFO  Brand:41 - making toString method
+2018-11-03 21:23:20 INFO  Brand:41 - making toString method
+2018-11-03 21:23:26 INFO  Brand:41 - making toString method
+2018-11-03 21:23:31 INFO  Brand:41 - making toString method
+2018-11-03 21:23:32 INFO  Brand:41 - making toString method
+2018-11-03 21:23:35 INFO  Brand:41 - making toString method
+2018-11-03 21:23:36 INFO  Brand:41 - making toString method
+2018-11-03 21:23:38 INFO  Brand:41 - making toString method
+2018-11-03 21:23:39 INFO  Brand:41 - making toString method
+2018-11-03 21:23:40 INFO  Brand:41 - making toString method
+2018-11-03 21:23:42 INFO  Brand:41 - making toString method
+2018-11-03 21:23:45 INFO  Brand:41 - making toString method
+2018-11-03 21:24:38 INFO  Brand:41 - making toString method
+2018-11-03 21:24:38 INFO  Brand:41 - making toString method
+2018-11-03 21:24:38 INFO  Brand:41 - making toString method
+2018-11-03 21:24:38 INFO  Brand:41 - making toString method
+2018-11-03 21:24:38 INFO  Brand:41 - making toString method
+2018-11-03 21:24:38 INFO  Brand:41 - making toString method
+2018-11-03 21:24:38 INFO  Brand:41 - making toString method
+2018-11-03 21:24:38 INFO  Brand:41 - making toString method
+2018-11-03 21:24:38 INFO  Brand:41 - making toString method
+2018-11-03 21:24:38 INFO  Brand:41 - making toString method
+2018-11-03 21:24:38 INFO  Brand:41 - making toString method
+2018-11-03 21:24:45 INFO  Brand:41 - making toString method
+2018-11-03 21:24:50 INFO  Brand:41 - making toString method
+2018-11-03 21:24:55 INFO  Brand:41 - making toString method
+2018-11-03 21:25:03 INFO  Brand:41 - making toString method
+2018-11-03 21:25:05 INFO  Brand:41 - making toString method
+2018-11-03 21:26:49 INFO  Brand:41 - making toString method
+2018-11-03 21:27:18 INFO  Brand:41 - making toString method
+2018-11-03 21:28:21 INFO  Brand:41 - making toString method
+2018-11-03 21:28:21 INFO  Brand:41 - making toString method
+2018-11-03 21:28:21 INFO  Brand:41 - making toString method
+2018-11-03 21:28:21 INFO  Brand:41 - making toString method
+2018-11-03 21:28:21 INFO  Brand:41 - making toString method
+2018-11-03 21:28:21 INFO  Brand:41 - making toString method

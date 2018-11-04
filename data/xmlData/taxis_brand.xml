@@ -1,0 +1,14 @@
+<list>
+  <brand>
+    <id>1</id>
+    <name>AUDI</name>
+  </brand>
+  <brand>
+    <id>2</id>
+    <name>VW</name>
+  </brand>
+  <brand>
+    <id>3</id>
+    <name>FORD</name>
+  </brand>
+</list>
