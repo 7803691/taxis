@@ -28,6 +28,7 @@ public class Export2JsonLevel {
         try {
             List<Level> levelList = levelService.getAllLevels();
             write2File(file, gsonBuilder.toJson(levelList));
+            log.debug("WRITE JSON FILE : " + Config.EXPORT_LEVEL_JSON);
         } catch (IOException e) {
             e.printStackTrace();
         }
