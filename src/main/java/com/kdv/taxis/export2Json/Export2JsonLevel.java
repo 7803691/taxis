@@ -6,6 +6,8 @@ import com.kdv.taxis.bean.Level;
 import com.kdv.taxis.config.Config;
 import com.kdv.taxis.dbapi.LevelServiceImpl;
 import com.kdv.taxis.service.ILevelService;
+import org.apache.log4j.LogManager;
+import org.apache.log4j.Logger;
 
 import java.io.FileWriter;
 import java.io.IOException;
@@ -14,6 +16,7 @@ import java.util.List;
 import static com.kdv.taxis.config.Writer.write2File;
 
 public class Export2JsonLevel {
+    private static final Logger log = LogManager.getLogger(Export2JsonLevel.class);
     private ILevelService levelService;
     private Gson gsonBuilder;
     private FileWriter file;
