@@ -210,3 +210,18 @@
 2018-11-06 15:44:43,424 [INFO ][main            ][        com.kdv.taxis.bean.Brand] - making toString method
 2018-11-06 15:44:43,424 [INFO ][main            ][        com.kdv.taxis.bean.Brand] - making toString method
 2018-11-06 15:44:43,424 [INFO ][main            ][        com.kdv.taxis.bean.Brand] - making toString method
+2018-11-06 16:05:18,975 [DEBUG][main            ][apache.ibatis.logging.LogFactory] - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2018-11-06 16:05:20,826 [DEBUG][main            ][apache.ibatis.logging.LogFactory] - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2018-11-06 16:05:21,179 [DEBUG][main            ][tasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-11-06 16:05:21,179 [DEBUG][main            ][tasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-11-06 16:05:21,179 [DEBUG][main            ][tasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-11-06 16:05:21,179 [DEBUG][main            ][tasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-11-06 16:05:22,149 [DEBUG][main            ][transaction.jdbc.JdbcTransaction] - Opening JDBC Connection
+2018-11-06 16:05:23,825 [DEBUG][main            ][tasource.pooled.PooledDataSource] - Created connection 795321555.
+2018-11-06 16:05:23,825 [DEBUG][main            ][transaction.jdbc.JdbcTransaction] - Setting autocommit to false on JDBC Connection [org.mariadb.jdbc.MariaDbConnection@2f67a4d3]
+2018-11-06 16:05:24,007 [DEBUG][main            ][xis.mapper.ICarMapper.getCarById] - ==>  Preparing: Select * from Car where id= ? 
+2018-11-06 16:05:24,085 [DEBUG][main            ][xis.mapper.ICarMapper.getCarById] - ==> Parameters: 2(Integer)
+2018-11-06 16:05:24,210 [TRACE][main            ][xis.mapper.ICarMapper.getCarById] - <==    Columns: id, year, review, regNumber, idBrand, idModel, idLevel, cost, fuelCons
+2018-11-06 16:05:24,226 [TRACE][main            ][xis.mapper.ICarMapper.getCarById] - <==        Row: 2, 2010, 4, 1324-IM4, 3, 4, 2, 5000, 6
+2018-11-06 16:05:24,226 [DEBUG][main            ][xis.mapper.ICarMapper.getCarById] - <==      Total: 1
+2018-11-06 16:05:24,382 [DEBUG][main            ][xis.export2Json.Export2JsonBrand] - WRITE JSON FILE : taxis_car.jsonBY ID 2

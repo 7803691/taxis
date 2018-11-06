@@ -25,5 +25,8 @@ public class Export2JsonCarTest {
         export2JsonCar.exportCar();
     }
 
-
+    @Test
+    public void exportCarToJsonById() {
+        export2JsonCar.exportCarToJsonById(2);
+    }
 }
