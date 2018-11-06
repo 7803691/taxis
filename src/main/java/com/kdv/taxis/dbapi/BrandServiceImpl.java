@@ -20,26 +20,35 @@ public class BrandServiceImpl implements IBrandService {
     private SqlSessionFactory factory;
     private Reader reader;
 
-    public BrandServiceImpl() throws IOException {
-        reader = Resources.getResourceAsReader("mybatis-config.xml");
+    public BrandServiceImpl() {
+        try {
+            reader = Resources.getResourceAsReader("mybatis-config.xml");
+            log.debug("TRY TO GET RESOURCE FROM mybatis-config.xml");
+        } catch (IOException e) {
+            log.warn("FAIL TO GET RESOURCE FROM mybatis-config.xml", e);
+            e.printStackTrace();
+        }
         factory = new SqlSessionFactoryBuilder().build(reader);
         factory.getConfiguration().addMapper(IBrandMapper.class);
         session = factory.openSession();
+
     }
 
     public List<Brand> getAllBrands() {
         List<Brand>  allBrands = session.selectList("getAllBrandList");
-        log.info("create List of Brands from DataBase");
+        log.debug("GET ALL BRANDS FROM TAXIS.BRAND ");
         return allBrands;
     }
 
     public Brand getBrandById(Integer id) {
         Brand brand = session.selectOne("getBrandById",id);
+        log.debug("GET BRAND BY ID = "+id+" FROM TAXIS.BRAND");
         return brand;
     }
 
     public Integer getBrandCount() {
         Integer count = session.selectOne("getBrandCount");
+        log.debug("GET RECORD COUNT TAXIS.BRAND");
         return count;
     }
 

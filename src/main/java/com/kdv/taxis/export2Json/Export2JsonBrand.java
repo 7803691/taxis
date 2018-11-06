@@ -7,6 +7,8 @@ import com.kdv.taxis.config.Config;
 import com.kdv.taxis.dbapi.BrandServiceImpl;
 import com.kdv.taxis.service.IBrandService;
 import com.kdv.taxis.config.Writer;
+import org.apache.log4j.LogManager;
+import org.apache.log4j.Logger;
 
 import java.io.FileWriter;
 import java.io.IOException;
@@ -16,6 +18,7 @@ import static com.kdv.taxis.config.Writer.write2File;
 
 
 public class Export2JsonBrand{
+    private static final Logger log = LogManager.getLogger(Export2JsonBrand.class);
 
    private IBrandService brandService;
    private Gson gsonBuilder;
@@ -31,8 +34,10 @@ public class Export2JsonBrand{
     public void exportBrand(){
        try {
            List<Brand> brandList = brandService.getAllBrands();
+           log.debug("WRITE JSON FILE : " + Config.EXPORT_BRAND_JSON);
            write2File(file, gsonBuilder.toJson(brandList));
        } catch (IOException e) {
+           log.error("ERROR WHILE WRITING JSON FILE :"+ Config.EXPORT_BRAND_JSON );
            e.printStackTrace();
        }
 

@@ -1,6 +1,7 @@
 package com.kdv.taxis.dbApiTest;
 
         import com.kdv.taxis.bean.Brand;
+        import com.kdv.taxis.config.LogAppenderResource;
         import com.kdv.taxis.dbapi.BrandServiceImpl;
         import com.kdv.taxis.service.IBrandService;
 
@@ -8,7 +9,6 @@ package com.kdv.taxis.dbApiTest;
         import org.apache.log4j.LogManager;
         import org.apache.log4j.Logger;
         import org.junit.*;
-
 
         import java.io.IOException;
         import java.util.List;
@@ -19,7 +19,7 @@ package com.kdv.taxis.dbApiTest;
         import static org.junit.Assert.assertThat;
 
 public class DbApiBrandServiceTest {
-    private static final Logger log = LogManager.getLogger(DbApiBrandServiceTest.class);
+
 
     private IBrandService service;
     private Brand testBrand1;
@@ -56,22 +56,25 @@ public class DbApiBrandServiceTest {
 
 
 
+
+
     @Test
     public void selectAllBrandTest() throws IOException {
         List<Brand> allBrands = service.getAllBrands();
+
         assertThat(allBrands, containsInAnyOrder(
                testBrand1,
                testBrand2,
                testBrand3
         ));
-        log.info("selectAllBrandTest complete");
+
     }
 
 
     @Test
     public void getBrandByIdTest() throws IOException {
        Brand brand = service.getBrandById(2);
-       assert brand.getName().equals("VW");
+       //assertThat(appender.getOutput(),brand.getName().equals("BMW"));
     }
 
 

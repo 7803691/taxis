@@ -28,25 +28,25 @@ public class Brand {
 //    }
 
     public int getId() {
-        log.info("Get brand id");
+        log.debug("Get brand id");
         return id;
 
     }
 
     public String getName() {
-        log.info("Get brand name");
+        log.debug("Get brand name");
         return name;
     }
 
     public void setId(int id) {
         this.id = id;
-        log.info("Set brand id");
+        log.debug("Set brand id");
     }
 
     public void setName(String name) {
 
         this.name = name;
-        log.info("Set brand name");
+        log.debug("Set brand name");
     }
 
     @Override

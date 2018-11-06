@@ -2,6 +2,8 @@ package com.kdv.taxis.bean;
 
 import com.thoughtworks.xstream.annotations.XStreamAlias;
 
+import java.util.Objects;
+
 @XStreamAlias("level")
 public class Level {
         @XStreamAlias("id")
@@ -31,5 +33,19 @@ public class Level {
                 "id=" + id +
                 ", name='" + name + '\'' +
                 '}';
+    }
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+        Level level = (Level) o;
+        return id == level.id &&
+                Objects.equals(name, level.name);
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(id, name);
     }
 }

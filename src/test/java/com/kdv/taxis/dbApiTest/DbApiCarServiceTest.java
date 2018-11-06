@@ -51,9 +51,9 @@ public class DbApiCarServiceTest {
 
      }
 
-     @Test
+    @Test
     public void getCarByBrandTest(){
-         System.out.println(carService.getCarByBrand(2));
+        //assert(carService.getCarByBrand(2).);
      }
 
     @Test
