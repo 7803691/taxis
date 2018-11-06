@@ -16,6 +16,7 @@ import java.util.List;
 
 public class BrandServiceImpl implements IBrandService {
     private static final Logger log = LogManager.getLogger(BrandServiceImpl.class);
+
     private SqlSession session;
     private SqlSessionFactory factory;
     private Reader reader;

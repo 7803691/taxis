@@ -225,3 +225,201 @@
 2018-11-06 16:05:24,226 [TRACE][main            ][xis.mapper.ICarMapper.getCarById] - <==        Row: 2, 2010, 4, 1324-IM4, 3, 4, 2, 5000, 6
 2018-11-06 16:05:24,226 [DEBUG][main            ][xis.mapper.ICarMapper.getCarById] - <==      Total: 1
 2018-11-06 16:05:24,382 [DEBUG][main            ][xis.export2Json.Export2JsonBrand] - WRITE JSON FILE : taxis_car.jsonBY ID 2
+2018-11-06 22:48:35,425 [DEBUG][main            ][kdv.taxis.dbapi.BrandServiceImpl] - TRY TO GET RESOURCE FROM mybatis-config.xml
+2018-11-06 22:48:35,878 [DEBUG][main            ][apache.ibatis.logging.LogFactory] - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2018-11-06 22:48:36,206 [DEBUG][main            ][apache.ibatis.logging.LogFactory] - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2018-11-06 22:48:36,238 [DEBUG][main            ][tasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-11-06 22:48:36,238 [DEBUG][main            ][tasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-11-06 22:48:36,238 [DEBUG][main            ][tasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-11-06 22:48:36,238 [DEBUG][main            ][tasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-11-06 22:48:36,300 [DEBUG][main            ][        com.kdv.taxis.bean.Brand] - Set brand id
+2018-11-06 22:48:36,300 [DEBUG][main            ][        com.kdv.taxis.bean.Brand] - Set brand name
+2018-11-06 22:48:36,300 [DEBUG][main            ][        com.kdv.taxis.bean.Brand] - Set brand id
+2018-11-06 22:48:36,300 [DEBUG][main            ][        com.kdv.taxis.bean.Brand] - Set brand name
+2018-11-06 22:48:36,300 [DEBUG][main            ][        com.kdv.taxis.bean.Brand] - Set brand id
+2018-11-06 22:48:36,300 [DEBUG][main            ][        com.kdv.taxis.bean.Brand] - Set brand name
+2018-11-06 22:48:36,316 [DEBUG][main            ][transaction.jdbc.JdbcTransaction] - Opening JDBC Connection
+2018-11-06 22:49:09,681 [DEBUG][main            ][kdv.taxis.dbapi.BrandServiceImpl] - TRY TO GET RESOURCE FROM mybatis-config.xml
+2018-11-06 22:49:09,853 [DEBUG][main            ][apache.ibatis.logging.LogFactory] - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2018-11-06 22:49:10,041 [DEBUG][main            ][apache.ibatis.logging.LogFactory] - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2018-11-06 22:49:10,103 [DEBUG][main            ][tasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-11-06 22:49:10,103 [DEBUG][main            ][tasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-11-06 22:49:10,103 [DEBUG][main            ][tasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-11-06 22:49:10,103 [DEBUG][main            ][tasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-11-06 22:49:10,197 [DEBUG][main            ][        com.kdv.taxis.bean.Brand] - Set brand id
+2018-11-06 22:49:10,197 [DEBUG][main            ][        com.kdv.taxis.bean.Brand] - Set brand name
+2018-11-06 22:49:10,197 [DEBUG][main            ][        com.kdv.taxis.bean.Brand] - Set brand id
+2018-11-06 22:49:10,197 [DEBUG][main            ][        com.kdv.taxis.bean.Brand] - Set brand name
+2018-11-06 22:49:10,197 [DEBUG][main            ][        com.kdv.taxis.bean.Brand] - Set brand id
+2018-11-06 22:49:10,197 [DEBUG][main            ][        com.kdv.taxis.bean.Brand] - Set brand name
+2018-11-06 22:49:10,213 [DEBUG][main            ][transaction.jdbc.JdbcTransaction] - Opening JDBC Connection
+2018-11-06 22:49:10,900 [DEBUG][main            ][tasource.pooled.PooledDataSource] - Created connection 1926004335.
+2018-11-06 22:49:10,916 [DEBUG][main            ][transaction.jdbc.JdbcTransaction] - Setting autocommit to false on JDBC Connection [org.mariadb.jdbc.MariaDbConnection@72cc7e6f]
+2018-11-06 22:49:10,978 [DEBUG][main            ][per.IBrandMapper.getAllBrandList] - ==>  Preparing: Select * from Brand 
+2018-11-06 22:49:11,041 [DEBUG][main            ][per.IBrandMapper.getAllBrandList] - ==> Parameters: 
+2018-11-06 22:49:11,228 [TRACE][main            ][per.IBrandMapper.getAllBrandList] - <==    Columns: id, name
+2018-11-06 22:49:11,228 [TRACE][main            ][per.IBrandMapper.getAllBrandList] - <==        Row: 1, AUDI
+2018-11-06 22:49:11,244 [DEBUG][main            ][        com.kdv.taxis.bean.Brand] - Set brand id
+2018-11-06 22:49:11,244 [DEBUG][main            ][        com.kdv.taxis.bean.Brand] - Set brand name
+2018-11-06 22:49:11,244 [TRACE][main            ][per.IBrandMapper.getAllBrandList] - <==        Row: 2, VW
+2018-11-06 22:49:11,244 [DEBUG][main            ][        com.kdv.taxis.bean.Brand] - Set brand id
+2018-11-06 22:49:11,244 [DEBUG][main            ][        com.kdv.taxis.bean.Brand] - Set brand name
+2018-11-06 22:49:11,244 [TRACE][main            ][per.IBrandMapper.getAllBrandList] - <==        Row: 3, FORD
+2018-11-06 22:49:11,244 [DEBUG][main            ][        com.kdv.taxis.bean.Brand] - Set brand id
+2018-11-06 22:49:11,244 [DEBUG][main            ][        com.kdv.taxis.bean.Brand] - Set brand name
+2018-11-06 22:49:11,244 [DEBUG][main            ][per.IBrandMapper.getAllBrandList] - <==      Total: 3
+2018-11-06 22:49:11,259 [DEBUG][main            ][kdv.taxis.dbapi.BrandServiceImpl] - GET ALL BRANDS FROM TAXIS.BRAND 
+2018-11-06 22:51:28,799 [DEBUG][main            ][kdv.taxis.dbapi.BrandServiceImpl] - TRY TO GET RESOURCE FROM mybatis-config.xml
+2018-11-06 22:51:29,174 [DEBUG][main            ][apache.ibatis.logging.LogFactory] - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2018-11-06 22:51:29,424 [DEBUG][main            ][apache.ibatis.logging.LogFactory] - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2018-11-06 22:51:29,471 [DEBUG][main            ][tasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-11-06 22:51:29,471 [DEBUG][main            ][tasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-11-06 22:51:29,471 [DEBUG][main            ][tasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-11-06 22:51:29,471 [DEBUG][main            ][tasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-11-06 22:51:29,533 [DEBUG][main            ][        com.kdv.taxis.bean.Brand] - Set brand id
+2018-11-06 22:51:29,533 [DEBUG][main            ][        com.kdv.taxis.bean.Brand] - Set brand name
+2018-11-06 22:51:29,533 [DEBUG][main            ][        com.kdv.taxis.bean.Brand] - Set brand id
+2018-11-06 22:51:29,533 [DEBUG][main            ][        com.kdv.taxis.bean.Brand] - Set brand name
+2018-11-06 22:51:29,533 [DEBUG][main            ][        com.kdv.taxis.bean.Brand] - Set brand id
+2018-11-06 22:51:29,533 [DEBUG][main            ][        com.kdv.taxis.bean.Brand] - Set brand name
+2018-11-06 22:51:29,549 [DEBUG][main            ][transaction.jdbc.JdbcTransaction] - Opening JDBC Connection
+2018-11-06 22:51:29,736 [DEBUG][main            ][tasource.pooled.PooledDataSource] - Created connection 1926004335.
+2018-11-06 22:51:29,736 [DEBUG][main            ][transaction.jdbc.JdbcTransaction] - Setting autocommit to false on JDBC Connection [org.mariadb.jdbc.MariaDbConnection@72cc7e6f]
+2018-11-06 22:51:29,799 [DEBUG][main            ][per.IBrandMapper.getAllBrandList] - ==>  Preparing: Select * from Brand 
+2018-11-06 22:51:29,877 [DEBUG][main            ][per.IBrandMapper.getAllBrandList] - ==> Parameters: 
+2018-11-06 22:51:29,924 [TRACE][main            ][per.IBrandMapper.getAllBrandList] - <==    Columns: id, name
+2018-11-06 22:51:29,924 [TRACE][main            ][per.IBrandMapper.getAllBrandList] - <==        Row: 1, AUDI
+2018-11-06 22:51:29,924 [DEBUG][main            ][        com.kdv.taxis.bean.Brand] - Set brand id
+2018-11-06 22:51:29,924 [DEBUG][main            ][        com.kdv.taxis.bean.Brand] - Set brand name
+2018-11-06 22:51:29,924 [TRACE][main            ][per.IBrandMapper.getAllBrandList] - <==        Row: 2, VW
+2018-11-06 22:51:29,924 [DEBUG][main            ][        com.kdv.taxis.bean.Brand] - Set brand id
+2018-11-06 22:51:29,924 [DEBUG][main            ][        com.kdv.taxis.bean.Brand] - Set brand name
+2018-11-06 22:51:29,924 [TRACE][main            ][per.IBrandMapper.getAllBrandList] - <==        Row: 3, FORD
+2018-11-06 22:51:29,924 [DEBUG][main            ][        com.kdv.taxis.bean.Brand] - Set brand id
+2018-11-06 22:51:29,924 [DEBUG][main            ][        com.kdv.taxis.bean.Brand] - Set brand name
+2018-11-06 22:51:29,924 [DEBUG][main            ][per.IBrandMapper.getAllBrandList] - <==      Total: 3
+2018-11-06 22:51:29,924 [DEBUG][main            ][kdv.taxis.dbapi.BrandServiceImpl] - GET ALL BRANDS FROM TAXIS.BRAND 
+2018-11-06 22:56:16,965 [DEBUG][main            ][kdv.taxis.dbapi.BrandServiceImpl] - TRY TO GET RESOURCE FROM mybatis-config.xml
+2018-11-06 22:56:17,200 [DEBUG][main            ][apache.ibatis.logging.LogFactory] - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2018-11-06 22:56:17,418 [DEBUG][main            ][apache.ibatis.logging.LogFactory] - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2018-11-06 22:56:17,465 [DEBUG][main            ][tasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-11-06 22:56:17,465 [DEBUG][main            ][tasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-11-06 22:56:17,465 [DEBUG][main            ][tasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-11-06 22:56:17,465 [DEBUG][main            ][tasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-11-06 22:56:17,528 [DEBUG][main            ][        com.kdv.taxis.bean.Brand] - Set brand id
+2018-11-06 22:56:17,528 [DEBUG][main            ][        com.kdv.taxis.bean.Brand] - Set brand name
+2018-11-06 22:56:17,528 [DEBUG][main            ][        com.kdv.taxis.bean.Brand] - Set brand id
+2018-11-06 22:56:17,528 [DEBUG][main            ][        com.kdv.taxis.bean.Brand] - Set brand name
+2018-11-06 22:56:17,528 [DEBUG][main            ][        com.kdv.taxis.bean.Brand] - Set brand id
+2018-11-06 22:56:17,528 [DEBUG][main            ][        com.kdv.taxis.bean.Brand] - Set brand name
+2018-11-06 22:56:17,543 [DEBUG][main            ][transaction.jdbc.JdbcTransaction] - Opening JDBC Connection
+2018-11-06 22:56:17,700 [DEBUG][main            ][tasource.pooled.PooledDataSource] - Created connection 1926004335.
+2018-11-06 22:56:17,700 [DEBUG][main            ][transaction.jdbc.JdbcTransaction] - Setting autocommit to false on JDBC Connection [org.mariadb.jdbc.MariaDbConnection@72cc7e6f]
+2018-11-06 22:56:17,731 [DEBUG][main            ][per.IBrandMapper.getAllBrandList] - ==>  Preparing: Select * from Brand 
+2018-11-06 22:56:17,840 [DEBUG][main            ][per.IBrandMapper.getAllBrandList] - ==> Parameters: 
+2018-11-06 22:56:17,887 [TRACE][main            ][per.IBrandMapper.getAllBrandList] - <==    Columns: id, name
+2018-11-06 22:56:17,887 [TRACE][main            ][per.IBrandMapper.getAllBrandList] - <==        Row: 1, AUDI
+2018-11-06 22:56:17,887 [DEBUG][main            ][        com.kdv.taxis.bean.Brand] - Set brand id
+2018-11-06 22:56:17,887 [DEBUG][main            ][        com.kdv.taxis.bean.Brand] - Set brand name
+2018-11-06 22:56:17,887 [TRACE][main            ][per.IBrandMapper.getAllBrandList] - <==        Row: 2, VW
+2018-11-06 22:56:17,903 [DEBUG][main            ][        com.kdv.taxis.bean.Brand] - Set brand id
+2018-11-06 22:56:17,903 [DEBUG][main            ][        com.kdv.taxis.bean.Brand] - Set brand name
+2018-11-06 22:56:17,903 [TRACE][main            ][per.IBrandMapper.getAllBrandList] - <==        Row: 3, FORD
+2018-11-06 22:56:17,903 [DEBUG][main            ][        com.kdv.taxis.bean.Brand] - Set brand id
+2018-11-06 22:56:17,903 [DEBUG][main            ][        com.kdv.taxis.bean.Brand] - Set brand name
+2018-11-06 22:56:17,903 [DEBUG][main            ][per.IBrandMapper.getAllBrandList] - <==      Total: 3
+2018-11-06 22:56:17,903 [DEBUG][main            ][kdv.taxis.dbapi.BrandServiceImpl] - GET ALL BRANDS FROM TAXIS.BRAND 
+2018-11-06 22:56:31,940 [DEBUG][main            ][kdv.taxis.dbapi.BrandServiceImpl] - TRY TO GET RESOURCE FROM mybatis-config.xml
+2018-11-06 22:56:32,237 [DEBUG][main            ][apache.ibatis.logging.LogFactory] - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2018-11-06 22:56:32,455 [DEBUG][main            ][apache.ibatis.logging.LogFactory] - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2018-11-06 22:56:32,502 [DEBUG][main            ][tasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-11-06 22:56:32,502 [DEBUG][main            ][tasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-11-06 22:56:32,502 [DEBUG][main            ][tasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-11-06 22:56:32,502 [DEBUG][main            ][tasource.pooled.PooledDataSource] - PooledDataSource forcefully closed/removed all connections.
+2018-11-06 22:56:32,549 [DEBUG][main            ][        com.kdv.taxis.bean.Brand] - Set brand id
+2018-11-06 22:56:32,549 [DEBUG][main            ][        com.kdv.taxis.bean.Brand] - Set brand name
+2018-11-06 22:56:32,549 [DEBUG][main            ][        com.kdv.taxis.bean.Brand] - Set brand id
+2018-11-06 22:56:32,549 [DEBUG][main            ][        com.kdv.taxis.bean.Brand] - Set brand name
+2018-11-06 22:56:32,549 [DEBUG][main            ][        com.kdv.taxis.bean.Brand] - Set brand id
+2018-11-06 22:56:32,549 [DEBUG][main            ][        com.kdv.taxis.bean.Brand] - Set brand name
+2018-11-06 22:56:32,565 [DEBUG][main            ][transaction.jdbc.JdbcTransaction] - Opening JDBC Connection
+2018-11-06 22:56:32,690 [DEBUG][main            ][tasource.pooled.PooledDataSource] - Created connection 1926004335.
+2018-11-06 22:56:32,705 [DEBUG][main            ][transaction.jdbc.JdbcTransaction] - Setting autocommit to false on JDBC Connection [org.mariadb.jdbc.MariaDbConnection@72cc7e6f]
+2018-11-06 22:56:32,737 [DEBUG][main            ][per.IBrandMapper.getAllBrandList] - ==>  Preparing: Select * from Brand 
+2018-11-06 22:56:32,830 [DEBUG][main            ][per.IBrandMapper.getAllBrandList] - ==> Parameters: 
+2018-11-06 22:56:32,862 [TRACE][main            ][per.IBrandMapper.getAllBrandList] - <==    Columns: id, name
+2018-11-06 22:56:32,862 [TRACE][main            ][per.IBrandMapper.getAllBrandList] - <==        Row: 1, AUDI
+2018-11-06 22:56:32,862 [DEBUG][main            ][        com.kdv.taxis.bean.Brand] - Set brand id
+2018-11-06 22:56:32,877 [DEBUG][main            ][        com.kdv.taxis.bean.Brand] - Set brand name
+2018-11-06 22:56:32,877 [TRACE][main            ][per.IBrandMapper.getAllBrandList] - <==        Row: 2, VW
+2018-11-06 22:56:32,877 [DEBUG][main            ][        com.kdv.taxis.bean.Brand] - Set brand id
+2018-11-06 22:56:32,877 [DEBUG][main            ][        com.kdv.taxis.bean.Brand] - Set brand name
+2018-11-06 22:56:32,877 [TRACE][main            ][per.IBrandMapper.getAllBrandList] - <==        Row: 3, FORD
+2018-11-06 22:56:32,877 [DEBUG][main            ][        com.kdv.taxis.bean.Brand] - Set brand id
+2018-11-06 22:56:32,877 [DEBUG][main            ][        com.kdv.taxis.bean.Brand] - Set brand name
+2018-11-06 22:56:32,877 [DEBUG][main            ][per.IBrandMapper.getAllBrandList] - <==      Total: 3
+2018-11-06 22:56:32,877 [DEBUG][main            ][kdv.taxis.dbapi.BrandServiceImpl] - GET ALL BRANDS FROM TAXIS.BRAND 
+2018-11-06 23:15:38,567 [INFO ][main            ][        com.kdv.taxis.bean.Brand] - making toString method
+2018-11-06 23:16:07,085 [INFO ][main            ][        com.kdv.taxis.bean.Brand] - making toString method
+2018-11-06 23:16:34,051 [INFO ][main            ][        com.kdv.taxis.bean.Brand] - making toString method
+2018-11-06 23:17:25,723 [INFO ][main            ][        com.kdv.taxis.bean.Brand] - making toString method
+2018-11-06 23:17:44,723 [INFO ][main            ][        com.kdv.taxis.bean.Brand] - making toString method
+2018-11-06 23:17:53,458 [INFO ][main            ][        com.kdv.taxis.bean.Brand] - making toString method
+2018-11-06 23:17:58,114 [INFO ][main            ][        com.kdv.taxis.bean.Brand] - making toString method
+2018-11-06 23:18:00,286 [INFO ][main            ][        com.kdv.taxis.bean.Brand] - making toString method
+2018-11-06 23:18:02,145 [INFO ][main            ][        com.kdv.taxis.bean.Brand] - making toString method
+2018-11-06 23:18:05,864 [INFO ][main            ][        com.kdv.taxis.bean.Brand] - making toString method
+2018-11-06 23:18:28,286 [INFO ][main            ][        com.kdv.taxis.bean.Brand] - making toString method
+2018-11-06 23:20:28,309 [INFO ][main            ][        com.kdv.taxis.bean.Brand] - making toString method
+2018-11-06 23:20:33,606 [INFO ][main            ][        com.kdv.taxis.bean.Brand] - making toString method
+2018-11-06 23:20:36,012 [INFO ][main            ][        com.kdv.taxis.bean.Brand] - making toString method
+2018-11-06 23:20:37,825 [INFO ][main            ][        com.kdv.taxis.bean.Brand] - making toString method
+2018-11-06 23:20:38,419 [INFO ][main            ][        com.kdv.taxis.bean.Brand] - making toString method
+2018-11-06 23:20:39,903 [INFO ][main            ][        com.kdv.taxis.bean.Brand] - making toString method
+2018-11-06 23:20:42,981 [INFO ][main            ][        com.kdv.taxis.bean.Brand] - making toString method
+2018-11-06 23:20:49,059 [INFO ][main            ][        com.kdv.taxis.bean.Brand] - making toString method
+2018-11-06 23:20:51,043 [INFO ][main            ][        com.kdv.taxis.bean.Brand] - making toString method
+2018-11-06 23:20:51,543 [INFO ][main            ][        com.kdv.taxis.bean.Brand] - making toString method
+2018-11-06 23:21:03,059 [INFO ][main            ][        com.kdv.taxis.bean.Brand] - making toString method
+2018-11-06 23:21:16,512 [INFO ][main            ][        com.kdv.taxis.bean.Brand] - making toString method
+2018-11-06 23:21:24,012 [INFO ][main            ][        com.kdv.taxis.bean.Brand] - making toString method
+2018-11-06 23:21:32,043 [INFO ][main            ][        com.kdv.taxis.bean.Brand] - making toString method
+2018-11-06 23:21:39,715 [INFO ][main            ][        com.kdv.taxis.bean.Brand] - making toString method
+2018-11-06 23:21:57,622 [INFO ][main            ][        com.kdv.taxis.bean.Brand] - making toString method
+2018-11-06 23:22:38,309 [INFO ][main            ][        com.kdv.taxis.bean.Brand] - making toString method
+2018-11-06 23:26:45,391 [INFO ][main            ][        com.kdv.taxis.bean.Brand] - making toString method
+2018-11-06 23:26:49,126 [INFO ][main            ][        com.kdv.taxis.bean.Brand] - making toString method
+2018-11-06 23:28:58,640 [INFO ][main            ][        com.kdv.taxis.bean.Brand] - making toString method
+2018-11-06 23:28:58,656 [INFO ][main            ][        com.kdv.taxis.bean.Brand] - making toString method
+2018-11-06 23:28:58,656 [INFO ][main            ][        com.kdv.taxis.bean.Brand] - making toString method
+2018-11-06 23:30:24,282 [INFO ][main            ][        com.kdv.taxis.bean.Brand] - making toString method
+2018-11-06 23:30:24,282 [INFO ][main            ][        com.kdv.taxis.bean.Brand] - making toString method
+2018-11-06 23:30:24,282 [INFO ][main            ][        com.kdv.taxis.bean.Brand] - making toString method
+2018-11-06 23:31:38,469 [DEBUG][main            ][        com.kdv.taxis.bean.Brand] - toString Method
+2018-11-06 23:31:38,485 [DEBUG][main            ][        com.kdv.taxis.bean.Brand] - toString Method
+2018-11-06 23:31:38,485 [DEBUG][main            ][        com.kdv.taxis.bean.Brand] - toString Method
+2018-11-06 23:41:39,699 [DEBUG][main            ][kdv.taxis.jsonParser.JsonCarImpl] - CREATE BufferedReader
+2018-11-06 23:41:39,824 [DEBUG][main            ][kdv.taxis.jsonParser.JsonCarImpl] - CREATE java.util.ArrayList<com.kdv.taxis.bean.Car>OBJECTS
+2018-11-06 23:41:39,856 [DEBUG][main            ][        com.kdv.taxis.bean.Brand] - toString Method
+2018-11-06 23:41:39,856 [DEBUG][main            ][        com.kdv.taxis.bean.Brand] - toString Method
+2018-11-06 23:41:39,856 [DEBUG][main            ][        com.kdv.taxis.bean.Brand] - toString Method
+2018-11-06 23:41:39,856 [DEBUG][main            ][        com.kdv.taxis.bean.Brand] - toString Method
+2018-11-06 23:41:39,856 [DEBUG][main            ][        com.kdv.taxis.bean.Brand] - toString Method
+2018-11-06 23:41:39,871 [DEBUG][main            ][        com.kdv.taxis.bean.Brand] - toString Method
+2018-11-06 23:41:39,871 [DEBUG][main            ][        com.kdv.taxis.bean.Brand] - toString Method
+2018-11-06 23:41:39,871 [DEBUG][main            ][        com.kdv.taxis.bean.Brand] - toString Method
+2018-11-06 23:41:39,871 [DEBUG][main            ][        com.kdv.taxis.bean.Brand] - toString Method
+2018-11-06 23:41:39,871 [DEBUG][main            ][        com.kdv.taxis.bean.Brand] - toString Method
+2018-11-06 23:41:39,871 [DEBUG][main            ][        com.kdv.taxis.bean.Brand] - toString Method
+2018-11-06 23:45:10,944 [DEBUG][main            ][kdv.taxis.jsonParser.JsonCarImpl] - CREATE BufferedReader
+2018-11-06 23:45:11,101 [DEBUG][main            ][kdv.taxis.jsonParser.JsonCarImpl] - GET ALL CARS FROM d:\Project\Epam\Taxis\data\jsonData\taxis_car.json METHOD
+2018-11-06 23:49:45,636 [DEBUG][main            ][kdv.taxis.jsonParser.JsonCarImpl] - CREATE BufferedReader
+2018-11-06 23:49:45,808 [DEBUG][main            ][kdv.taxis.jsonParser.JsonCarImpl] - GET ALL CARS FROM d:\Project\Epam\Taxis\data\jsonData\taxis_car.json
+2018-11-06 23:50:13,388 [DEBUG][main            ][kdv.taxis.jsonParser.JsonCarImpl] - CREATE BufferedReader
+2018-11-06 23:50:13,575 [DEBUG][main            ][kdv.taxis.jsonParser.JsonCarImpl] - GET ALL CARS FROM d:\Project\Epam\Taxis\data\jsonData\taxis_car.json
+2018-11-06 23:50:13,575 [DEBUG][main            ][kdv.taxis.jsonParser.JsonCarImpl] - GET CAR BY ID = 3FROM d:\Project\Epam\Taxis\data\jsonData\taxis_car.json
+2018-11-06 23:58:30,981 [DEBUG][main            ][kdv.taxis.jsonParser.JsonCarImpl] - CREATE BufferedReader
+2018-11-06 23:58:31,238 [DEBUG][main            ][kdv.taxis.jsonParser.JsonCarImpl] - GET ALL CARS FROM d:\Project\Epam\Taxis\data\jsonData\taxis_car.json
+2018-11-07 00:00:20,672 [DEBUG][main            ][kdv.taxis.jsonParser.JsonCarImpl] - CREATE BufferedReader
+2018-11-07 00:00:20,816 [DEBUG][main            ][kdv.taxis.jsonParser.JsonCarImpl] - GET ALL CARS FROM d:\Project\Epam\Taxis\data\jsonData\taxis_car.json
+2018-11-07 00:00:20,829 [DEBUG][main            ][kdv.taxis.jsonParser.JsonCarImpl] - GET COST OF TAXIS FROM d:\Project\Epam\Taxis\data\jsonData\taxis_car.json

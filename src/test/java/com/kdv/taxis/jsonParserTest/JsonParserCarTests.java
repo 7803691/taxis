@@ -24,12 +24,22 @@ public class JsonParserCarTests {
 
 
     @Test
-    public void allCarParseTest() throws FileNotFoundException {
+    public void allCarParseTest()  {
         System.out.println(jsonCarImpl.getAllCars());
     }
 
     @Test
     public void getCarByIdTest(){
         System.out.println(jsonCarImpl.getCarById(3));
+    }
+
+    @Test
+    public void getCarByBrand() {
+        System.out.println(jsonCarImpl.getCarByBrand(2));
+    }
+
+    @Test
+    public void getCostOfTaxis() {
+        System.out.println(jsonCarImpl.getCostOfTaxis());
     }
 }

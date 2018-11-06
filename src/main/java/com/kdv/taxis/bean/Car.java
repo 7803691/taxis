@@ -38,7 +38,7 @@ public class Car {
 
     @Override
     public String toString() {
-        log.info("making toString method");
+      //  log.debug("toString Method");
         return "Car{" +
                 "id=" + id +
                 ", year=" + year +
